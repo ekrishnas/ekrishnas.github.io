@@ -18,7 +18,7 @@ linkedin_username: krishna1433
 about_title: Introduction
 about_profile_image: images/profile.jpg
 about_content: |
-  I'm currently working as a senior software engineer at ValueMomentum. Experienced in building APIs, integration with external services, payment gateway integration and etc,. I'm current preparing for AWS Cloud Practitioner Certification. I'm most skilled in: <mark>.NET</mark> and <mark>AWS</mark>.
+  I'm currently working as a senior software engineer at ValueMomentum. Experienced in web applications, backend services, building user interface and APIs, integration with external services, payment gateway integration and etc,. I'm current preparing for AWS Cloud Practitioner Certification. I'm most skilled in: <mark>.NET</mark> and <mark>AWS</mark>.
 
 content:
   - title: Full Time Work Experience
@@ -41,6 +41,7 @@ content:
             - Talk to client, service team through daily meetings to better understand their problems and providing solutions along with implementation.
             - Refine backlogs, providing estimates and not only align team but to work with team to achieve target timelines.
             - Documenting architecture and solution to confluence for future reference.
+            - Implementation of different cron jobs.
 
       - layout: top-middle
         title: ValueMomentum
