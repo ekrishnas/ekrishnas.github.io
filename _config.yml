@@ -24,23 +24,7 @@ about_content: |
   I am most skilled in: <mark>.NET</mark>, <mark>DevOps</mark>, <mark>AWS</mark>.
 
 content:
-  - title: Projects
-    layout: list
-    content:
-      - layout: top-middle
-        title: Authentication
-        link: github.com/ekrishnas/
-        link_text: Project Website
-        additional_links:
-          - title:  ekrishnas/authentication
-            icon: fab fa-github
-            url: github.com/ekrishnas/authentication
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: |
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience
+  - title: Full Time Work Experience
     layout: list
     content:
       - layout: left
@@ -95,13 +79,43 @@ content:
         sub_title: Contract Assignee - Quality Assurance Engineer
         caption: January 2016 - October 2016
         quote: >
-          Manual testing of telecom products
+          Manual testing on Telecom Domain
         description: | 
-            - Manual Testing of Telecom domain, Siebel CRM, Oracle Communications Order and Service Management, Billing & Revenue Management (BRM) for a Philippines client.
-            - Manual Testing of Salesforce CRM testing for a Canadian client.
+            - Manual Testing of CRM tools like Salesforce, Oracle Communications Order and Service Management, Billing & Revenue Management (BRM) for a Philippines and a Canadian client.
             - Review and evaluate requests from engineers, managers, and technicians for system modifications.
             - Implement maintenance, backup, or recovery procedures.
 
+  - title: Skills of mine that can be useful
+    layout: text
+    content: |
+      Following are the languages/tool that I have an experience in apart from my major skills which can be useful
+       - Python, JavaScript
+       - HTML, CSS, jQuery
+       - Git, Git Workflows
+       - CI/CD, GitHub & GitHub Actions
+       - PDF/HTML Document Generation
+       - Slack Apps, Webhooks and Integrations
+       - Stripe Payment Gateway
+       - Feature Management
+       - AWS serverless architecture
+       - AWS SNS and SQS
+       - Atlassian products like Jira and Confluence
+
+  - title: Projects
+    layout: list
+    content:
+      - layout: top-middle
+        title: Authentication
+        link: github.com/ekrishnas/
+        link_text: Project Website
+        additional_links:
+          - title:  ekrishnas/authentication
+            icon: fab fa-github
+            url: github.com/ekrishnas/authentication
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: |
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Education
     layout: list
@@ -126,26 +140,6 @@ content:
         sub_title: Don Bosco High School
         quote: >
           Completed schooling with 85% Hyderabad, with certification from State Board of Secondary Education.
-
-
-
-  - title: Skills of mine that can be useful
-    layout: text
-    content: |
-      Following are the languages/tool that I have an experience in apart from my major skills which can be useful
-       - Python, JavaScript
-       - HTML, CSS, jQuery
-       - Git, Git Workflows
-       - CI/CD, GitHub & GitHub Actions
-       - PDF/HTML Document Generation
-       - Slack Apps, Webhooks and Integrations
-       - Stripe Payment Gateway
-       - Feature Management
-       - AWS serverless architecture
-       - AWS SNS and SQS
-       - Atlassian products like Jira and Confluence
-
-
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
