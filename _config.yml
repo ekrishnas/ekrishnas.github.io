@@ -83,7 +83,7 @@ content:
         sub_title: Product Support Engineer
         caption: April 2017 - August 2017
         quote: >
-          Troubleshooting for Google's Double Click for Publisher clients like Microsoft, Motorola, Samsung, Apple etc.
+          Troubleshooting for Google's DoubleClick for Publisher clients like Microsoft, Motorola, Samsung, Apple etc.
         description: | 
             - Document software defects using a bug tracking system (JIRA) and report defects to software developers after initial analysis.
             - Gather information from user inquiries, read technical manuals, confer with users, conduct diagnostics to investigate and resolve problems by providing technical assistance.
@@ -109,10 +109,7 @@ content:
         quote: >
           This award and recognition is awarded to an associate if they have made a significant change in a positive way to the company.
         description: |
-          <details>
-          <summary>Click me!</summary>
-          ![alt text](/images/VM_You have made a difference.png "Certificate")
-          </details>
+          [Click me for certificate!](/images/VM_You have made a difference.png)
 
       - layout: left
         title: Highflier of the Quarter - Innovation
