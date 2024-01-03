@@ -81,20 +81,27 @@ content:
         sub_title: Product Support Engineer
         caption: April 2017 - August 2017
         quote: >
-          Solving 21st century problems by  and making game changing products like the *not a flamethrower*
+          Troubleshooting for Google's Double Click for Publisher clients like Microsoft, Motorola, Samsung, Apple etc.
         description: | 
-            Every company needs its networks properly administered and The Boring is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            - Document software defects, using a bug tracking system (JIRA), and report defects to software developers.
+            - Answer user inquiries regarding computer software or hardware operation to resolve problems.
+            - Read technical manuals, confer with users, or conduct computer diagnostics to investigate and resolve problems or to provide technical assistance and support.
+            - Confer with staff, users, and management to establish requirements for new systems or modifications.
 
       - layout: left
         title: Tata Consultancy Services
         link: https://www.tcs.com/
         link_text: Tata Consultancy Services
-        sub_title: Contract Assignee
+        sub_title: Contract Assignee - Quality Assurance Engineer
         caption: January 2016 - October 2016
         quote: >
-          Solving 21st century problems by  and making game changing products like the *not a flamethrower*
+          Manual testing of telecom products
         description: | 
-            Every company needs its networks properly administered and The Boring is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            - Manual Testing of Telecom domain, Siebel CRM, Oracle Communications Order and Service Management, Billing & Revenue Management (BRM) for a Philippines client.
+            - Manual Testing of Salesforce CRM testing for a Canadian client.
+            - Review and evaluate requests from engineers, managers, and technicians for system modifications.
+            - Implement maintenance, backup, or recovery procedures.
+
 
   - title: Education
     layout: list
