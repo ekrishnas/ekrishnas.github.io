@@ -77,24 +77,27 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: center
-        title: Bachelor Of Technology
+        title: B.Tech
         caption: 2011 - 2015
         sub_title: Keshav Memorial Institute of Technology
         quote: >
-          Electronics and Communications Engineering
-          Jawaharlal Nehru Technological University Hyderabad
+          Obtained bachelors degree in Electronics and Communications Engineering in Hyderabad from Jawaharlal Nehru Technological University.
         # description: | # this will include new lines to allow paragraphs
         #   During my time at KMIT I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. 
         #   I thoroughly enjoyed my time at college and learnt a lot about a healthy work life balance.
       - layout: center
-        title: Board of Intermediate Education
+        title: Intermediate Education
         caption: 2009 - 2011
         sub_title: Sri Chaitanya College
+        quote: >
+          Completed intermediate education in Hyderabad by obtaining certification from State Board of Intermediate Education.
       
       - layout: center
-        title: School of Secondary Certification
+        title: SSC
         caption: 1997 - 2009
         sub_title: Don Bosco High School
+        quote: >
+          Completed schooling in Hyderabad, with certification from State Board of Secondary Education.
 
 
 
