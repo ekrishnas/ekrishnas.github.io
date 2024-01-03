@@ -18,45 +18,57 @@ linkedin_username: krishna1433
 about_title: Introduction
 about_profile_image: images/profile.jpg
 about_content: |
-  I'm a senior software engineer. I have experience making software and web apps. 
-  I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>.NET</mark>, <mark>DevOps</mark>, <mark>AWS</mark>.
+  I'm currently working as a senior software engineer at ValueMomentum. I am most skilled in: <mark>.NET</mark> <mark>DevOps</mark> and <mark>AWS</mark>.
 
 content:
   - title: Full Time Work Experience
     layout: list
     content:
-      - layout: left
+      - layout: top-middle
         title: ValueMomentum
         link: https://valuemomentum.com/
         link_text: ValueMomentum
         sub_title: Senior Software Engineer
         caption: October 2022 - Present
         quote: >
-          Solving 21st century problems by  and making game changing products like the *not a flamethrower*
+          Scaling the initial product built to cater increasing business demand.
         description: | 
-            Every company needs its networks properly administered and The Boring is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            - Setting up CI/CD using AWS SDK and GitHub Actions.
+            - Converting existing monolithic architecture to microservices architecture.
+            - Using pub-sub based communication to loosely couple services.
+            - Maintain asynchronous communication where ever possible using messaging systems.
+            - Building accelerators and write scripts to convert business specifications into system understandable files.
+            - Talk to client, service team through daily meetings to better understand their problems and providing solutions along with implementation.
+            - Refine backlogs, providing estimates and not only align team but to work with team to achieve target timelines.
      
-      - layout: left
+      - layout: top-middle
         title: ValueMomentum
         link: https://valuemomentum.com/
         link_text: ValueMomentum
         sub_title: Software Engineer
         caption: September 2019 - October 2022
         quote: >
-          Solving 21st century problems by  and making game changing products like the *not a flamethrower*
+          Development of an insurance-based product using APIs and plugins.
         description: |
-            Every company needs its networks properly administered and The Boring is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            - Converting business requirements into technical specifications and solutioning them.
+            - Using JavaScript to write logic to configure a Price Quote (CPQ) Software, underwriting plugins.
+            - Document generation using liquid templates and C# SDKs.
+            - Third party integrations using GraphQL and HTTP requests.
+            - Payment Gateway setup, integration and post payment processing workflows.
+            - Generate documents and request for electronic signatures using third parties for compliance.
+            - Using database to store relevant information related to quote and policy processing.
+            - Leading a team of seven to accomplish the business requirements.
 
-      - layout: left
+      - layout: top-middle
         title: HashtagHyderabad
         sub_title: Director of Event Management
         caption: October 2017 - July 2019
         quote: >
-          Solving 21st century problems by  and making game changing products like the *not a flamethrower*
+          An event management company that worked on organizing events.
         description: | 
-            Every company needs its networks properly administered and The Boring is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            - Meet with potential clients and converting the leads into business value.
+            - Organize corporate, traditional, weddings, birthdays, business openings and media events.
+            - Handle vendors from different backgrounds and bridge them together to conduct a pleasant experience.
       
       - layout: top-middle
         title: HCLTech
@@ -67,10 +79,8 @@ content:
         quote: >
           Troubleshooting for Google's Double Click for Publisher clients like Microsoft, Motorola, Samsung, Apple etc.
         description: | 
-            - Document software defects, using a bug tracking system (JIRA), and report defects to software developers.
-            - Answer user inquiries regarding computer software or hardware operation to resolve problems.
-            - Read technical manuals, confer with users, or conduct computer diagnostics to investigate and resolve problems or to provide technical assistance and support.
-            - Confer with staff, users, and management to establish requirements for new systems or modifications.
+            - Document software defects using a bug tracking system (JIRA) and report defects to software developers after initial analysis.
+            - Gather information from user inquiries, read technical manuals, confer with users, conduct diagnostics to investigate and resolve problems by providing technical assistance.
 
       - layout: top-middle
         title: Tata Consultancy Services
@@ -82,13 +92,11 @@ content:
           Manual testing on Telecom Domain
         description: | 
             - Manual Testing of CRM tools like Salesforce, Oracle Communications Order and Service Management, Billing & Revenue Management (BRM) for a Philippines and a Canadian client.
-            - Review and evaluate requests from engineers, managers, and technicians for system modifications.
-            - Implement maintenance, backup, or recovery procedures.
 
-  - title: Skills of mine that can be useful
+  - title: Skills of mine that add value
     layout: text
     content: |
-      Following are the languages/tool that I have an experience in apart from my major skills which can be useful
+      Following are the languages/tool that I have an experience or surface knowledge in apart from my major skill set which were very useful during my work.
        - Python, JavaScript
        - HTML, CSS, jQuery
        - Git, Git Workflows
@@ -100,22 +108,6 @@ content:
        - AWS serverless architecture
        - AWS SNS and SQS
        - Atlassian products like Jira and Confluence
-
-  - title: Projects
-    layout: list
-    content:
-      - layout: top-middle
-        title: Authentication
-        link: github.com/ekrishnas/
-        link_text: Project Website
-        additional_links:
-          - title:  ekrishnas/authentication
-            icon: fab fa-github
-            url: github.com/ekrishnas/authentication
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: |
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Education
     layout: list
@@ -140,6 +132,23 @@ content:
         sub_title: Don Bosco High School
         quote: >
           Completed schooling with 85% Hyderabad, with certification from State Board of Secondary Education.
+
+  - title: Projects
+    layout: list
+    content:
+      - layout: top-middle
+        title: Authentication
+        link: github.com/ekrishnas/
+        link_text: Project Website
+        additional_links:
+          - title:  ekrishnas/authentication
+            icon: fab fa-github
+            url: github.com/ekrishnas/authentication
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: |
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
