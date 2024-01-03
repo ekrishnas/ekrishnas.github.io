@@ -58,7 +58,7 @@ content:
             - Using JavaScript to write logic to configure a Price Quote (CPQ) Software, underwriting plugins.
             - Document generation using liquid templates and C# SDKs.
             - Third party integrations using GraphQL and HTTP requests.
-            - Stripe Payment Gateway setup, integration and designing post payment processing workflows.
+            - [Stripe Payment Gateway setup](https://stripe.com/), integration and designing post payment processing workflows.
             - Generate documents and request for electronic signatures using third parties for compliance.
             - Using database to store relevant information related to quote and policy processing.
             - Writing stored procedures for database communication.
@@ -111,7 +111,7 @@ content:
         description: |
           <details>
           <summary>Click me!</summary>
-          [alt text](/images/VM_You have made a difference.png "Trees")
+          ![alt text](/images/VM_You have made a difference.png "Certificate")
           </details>
 
       - layout: left
