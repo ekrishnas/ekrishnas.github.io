@@ -27,7 +27,7 @@ content:
       - layout: top-middle
         title: ValueMomentum
         link: https://valuemomentum.com/
-        link_text: ValueMomentum
+        link_text: ValueMomentum Software Services
         sub_title: Senior Software Engineer
         caption: October 2022 - Present
         quote: >
@@ -46,7 +46,7 @@ content:
       - layout: top-middle
         title: ValueMomentum
         link: https://valuemomentum.com/
-        link_text: ValueMomentum
+        link_text: ValueMomentum Software Services
         sub_title: Software Engineer
         caption: September 2019 - October 2022
         quote: >
@@ -117,6 +117,8 @@ content:
         caption: August 2021
         quote: >
           A Highflier award in Innovation category is awarded to an employee whose contribution has been innovative to the company and has made a difference to the company.
+        description: |
+          [Click me for certificate!](/images/VM_Highflier Innovation.png)
 
   - title: Prominent Skills
     layout: text
