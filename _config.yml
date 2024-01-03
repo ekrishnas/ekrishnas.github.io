@@ -18,7 +18,8 @@ linkedin_username: krishna1433
 about_title: Introduction
 about_profile_image: images/profile.jpg
 about_content: |
-  I'm currently working as a senior software engineer at ValueMomentum. I am most skilled in: <mark>.NET</mark> <mark>DevOps</mark> and <mark>AWS</mark>.
+  I'm currently working as a senior software engineer at ValueMomentum. Experienced in building APIs, integration with external services, payment gateway integration, document generation.
+   I am most skilled in: <mark>.NET</mark> <mark>DevOps</mark> and <mark>AWS</mark>.
 
 content:
   - title: Full Time Work Experience
@@ -40,7 +41,8 @@ content:
             - Building accelerators and write scripts to convert business specifications into system understandable files.
             - Talk to client, service team through daily meetings to better understand their problems and providing solutions along with implementation.
             - Refine backlogs, providing estimates and not only align team but to work with team to achieve target timelines.
-     
+            - Documenting architecture and solution to confluence for future reference.
+
       - layout: top-middle
         title: ValueMomentum
         link: https://valuemomentum.com/
@@ -50,13 +52,17 @@ content:
         quote: >
           Development of an insurance-based product using APIs and plugins.
         description: |
+            - Using APIs to communicate with Policy Administration System for insurance policy issuance and policy servicing.
+            - Working on generating invoices based on installments.
             - Converting business requirements into technical specifications and solutioning them.
             - Using JavaScript to write logic to configure a Price Quote (CPQ) Software, underwriting plugins.
             - Document generation using liquid templates and C# SDKs.
             - Third party integrations using GraphQL and HTTP requests.
-            - Payment Gateway setup, integration and post payment processing workflows.
+            - Payment Gateway setup, integration and designing post payment processing workflows.
             - Generate documents and request for electronic signatures using third parties for compliance.
             - Using database to store relevant information related to quote and policy processing.
+            - Writing stored procedures for database communication.
+            - Building a mapping layer between two complicated systems for seamless integration between front end and backend.
             - Leading a team of seven to accomplish the business requirements.
 
       - layout: top-middle
@@ -98,9 +104,10 @@ content:
     content: |
       Following are the languages/tool that I have an experience or surface knowledge in apart from my major skill set which were very useful during my work.
        - Python, JavaScript
-       - HTML, CSS, jQuery
+       - HTML, CSS, jQuery, Markdown
+       - YAML, JSON
        - Git, Git Workflows
-       - CI/CD, GitHub & GitHub Actions
+       - Docker, CI/CD, GitHub & GitHub Actions
        - PDF/HTML Document Generation
        - Slack Apps, Webhooks and Integrations
        - Stripe Payment Gateway
@@ -133,21 +140,21 @@ content:
         quote: >
           Completed schooling with 85% Hyderabad, with certification from State Board of Secondary Education.
 
-  - title: Projects
-    layout: list
-    content:
-      - layout: top-middle
-        title: Authentication
-        link: github.com/ekrishnas/
-        link_text: Project Website
-        additional_links:
-          - title:  ekrishnas/authentication
-            icon: fab fa-github
-            url: github.com/ekrishnas/authentication
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: |
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  # - title: Projects
+  #   layout: list
+  #   content:
+  #     - layout: top-middle
+  #       title: Authentication
+  #       link: github.com/ekrishnas/
+  #       link_text: Project Website
+  #       additional_links:
+  #         - title:  ekrishnas/authentication
+  #           icon: fab fa-github
+  #           url: github.com/ekrishnas/authentication
+  #       quote: >
+  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #       description: |
+  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 # Footer
 footer_show_references: false
