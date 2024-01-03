@@ -76,30 +76,25 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Keshav Memorial Institute of Technology
+      - layout: center
+        title: Bachelor Of Technology
         caption: 2011 - 2015
-        sub_title: |
-          Bachelor Of Technology
+        sub_title: Keshav Memorial Institute of Technology
+        quote: >
           Electronics and Communications Engineering
           Jawaharlal Nehru Technological University Hyderabad
-        # quote: >
-        #   Established in 2007, KMIT is affiliated to Jawaharlal Nehru Technological University Hyderabad College of Engineering - Hyderabad is the prominent higher education institution in the Hyderabad, 
-        #   and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading college not just the Hyderabad but also the state.
         # description: | # this will include new lines to allow paragraphs
         #   During my time at KMIT I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. 
         #   I thoroughly enjoyed my time at college and learnt a lot about a healthy work life balance.
-      - layout: left
-        title: Sri Chaitanya College
+      - layout: center
+        title: Board of Intermediate Education
         caption: 2009 - 2011
-        sub_title: /
-          Board of Intermediate
+        sub_title: Sri Chaitanya College
       
-      - layout: left
-        title: Don Bosco High School
+      - layout: center
+        title: School of Secondary Certification
         caption: 1997 - 2009
-        sub_title: /
-          School of Secondary Certification
+        sub_title: Don Bosco High School
 
 
 
