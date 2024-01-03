@@ -9,8 +9,7 @@ version: 2
 name: E Sai Krishna
 title: Senior Software Engineer
 email: krishnas1433@gmail.com
-phone: +919908866642
-# website: https://www.linkedin.com/in/krishna1433/
+phone: +91-9908866642
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -25,7 +24,7 @@ linkedin_username: krishna1433
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Sai Krishna and I'm a senior software engineer. I have experience making software and web apps. 
+  I'm a senior software engineer. I have experience making software and web apps. 
   I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>.NET</mark>, <mark>DevOps</mark>, <mark>AWS</mark>.
@@ -67,7 +66,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: B.Tech
         caption: 2011 - 2015
         sub_title: Keshav Memorial Institute of Technology
