@@ -1,26 +1,20 @@
-# Site
 repository: ekrishnas/ekrishnas.github.io
 favicon: images/favicon.ico
 
-# Content configuration version
 version: 2
 
-# Personal info
 name: E Sai Krishna
 title: Senior Software Engineer
 email: krishnas1433@gmail.com
 phone: +91-9908866642
 
-# Dark Mode (true/false/never)
 darkmode: true
 
-# Social links
 github_username: ekrishnas
 stackoverflow_username: "5826312"
 instagram_username: krishna_422
 linkedin_username: krishna1433
 
-# About Section
 about_title: Introduction
 about_profile_image: images/profile.jpg
 about_content: |
@@ -30,27 +24,24 @@ about_content: |
   I am most skilled in: <mark>.NET</mark>, <mark>DevOps</mark>, <mark>AWS</mark>.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        title: Authentication
+        link: github.com/ekrishnas/
+        link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  ekrishnas/authentication
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+            url: github.com/ekrishnas/authentication
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title: ValueMomentum
@@ -76,8 +67,6 @@ content:
 
       - layout: left
         title: HashtagHyderabad
-        # link: https://valuemomentum.com/
-        # link_text: ValueMomentum
         sub_title: Director of Event Management
         caption: October 2017 - July 2019
         quote: >
@@ -107,8 +96,8 @@ content:
         description: | 
             Every company needs its networks properly administered and The Boring is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
         title: Bachelor of Technology
@@ -139,8 +128,14 @@ content:
       Following are the languages/tool that I have an experience in apart from my major skills which can be useful
        - Python, JavaScript
        - HTML, CSS, jQuery
-       - Git, CI/CD, GitHub Actions
+       - Git, Git Workflows
+       - CI/CD, GitHub & GitHub Actions
        - PDF/HTML Document Generation
+       - Slack Apps, Webhooks and Integrations
+       - Stripe Payment Gateway
+       - Feature Management
+       - AWS serverless architecture
+       - AWS SNS and SQS
 
 
 # Footer
