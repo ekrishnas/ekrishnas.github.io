@@ -108,12 +108,12 @@ content:
         caption: October 2022
         quote: >
           This award and recognition is awarded to an associate if they have made a significant change in a positive way to the company.
-        description: \
+        description: |
           <details>
           <summary>Click me!</summary>
           [alt text](/images/VM_You have made a difference.png "Trees")
           </details>
-          
+
       - layout: left
         title: Highflier of the Quarter - Innovation
         sub_title: Issued by ValueMomentum
