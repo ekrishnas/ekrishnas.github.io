@@ -52,13 +52,13 @@ content:
         quote: >
           Development of an insurance-based product using APIs and plugins.
         description: |
-            - Using APIs to communicate with Policy Administration System for insurance policy issuance and policy servicing.
+            - Using APIs to communicate with [Socotra Policy Administration System](https://www.socotra.com/) for insurance policy issuance and policy servicing.
             - Working on generating invoices based on installments.
             - Converting business requirements into technical specifications and solutioning them.
             - Using JavaScript to write logic to configure a Price Quote (CPQ) Software, underwriting plugins.
             - Document generation using liquid templates and C# SDKs.
             - Third party integrations using GraphQL and HTTP requests.
-            - Payment Gateway setup, integration and designing post payment processing workflows.
+            - Stripe Payment Gateway setup, integration and designing post payment processing workflows.
             - Generate documents and request for electronic signatures using third parties for compliance.
             - Using database to store relevant information related to quote and policy processing.
             - Writing stored procedures for database communication.
@@ -99,6 +99,28 @@ content:
         description: | 
             - Manual Testing of CRM tools like Salesforce, Oracle Communications Order and Service Management, Billing & Revenue Management (BRM) for a Philippines and a Canadian client.
 
+  - title: Awards and Recognition
+    layout: list
+    content:
+      - layout: left
+        title: You Have Made a Difference
+        sub_title: Issued by ValueMomentum
+        caption: October 2022
+        quote: >
+          This award and recognition is awarded to an associate if they have made a significant change in a positive way to the company.
+        description: \
+          <details>
+          <summary>Click me!</summary>
+          [alt text](/images/VM_You have made a difference.png "Trees")
+          </details>
+          
+      - layout: left
+        title: Highflier of the Quarter - Innovation
+        sub_title: Issued by ValueMomentum
+        caption: August 2021
+        quote: >
+          A Highflier award in Innovation category is awarded to an employee whose contribution has been innovative to the company and has made a difference to the company.
+
   - title: Prominent Skills
     layout: text
     content: |
@@ -112,9 +134,8 @@ content:
        - Slack Apps, Webhooks and Integrations
        - Stripe Payment Gateway
        - Feature Management
-       - AWS serverless architecture
-       - AWS SNS and SQS
        - Atlassian products like Jira and Confluence
+       - Node.js, GraphQL, AWS Cloud Development Kit, AWS Amplify, AWS Secret Manager, AWS DynamoDB, AWS CloudWatch, AWS IAM, AWS Lambda, AWS SNS, AWS SQS.
 
   - title: Education
     layout: list
