@@ -1,4 +1,5 @@
 # Site
+repository: ekrishnas/ekrishnas.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -8,6 +9,7 @@ version: 2
 name: E Sai Krishna
 title: Senior Software Engineer
 email: krishnas1433@gmail.com
+phone: +919908866642
 # website: https://www.linkedin.com/in/krishna1433/
 
 # Dark Mode (true/false/never)
@@ -18,17 +20,6 @@ github_username: ekrishnas
 stackoverflow_username: "5826312"
 instagram_username: krishna_422
 linkedin_username: krishna1433
-
-
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
@@ -76,23 +67,21 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: center
+      - layout: left
         title: B.Tech
         caption: 2011 - 2015
         sub_title: Keshav Memorial Institute of Technology
         quote: >
           Obtained bachelors degree in Electronics and Communications Engineering in Hyderabad from Jawaharlal Nehru Technological University.
-        # description: | # this will include new lines to allow paragraphs
-        #   During my time at KMIT I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. 
-        #   I thoroughly enjoyed my time at college and learnt a lot about a healthy work life balance.
-      - layout: center
+
+      - layout: left
         title: Intermediate Education
         caption: 2009 - 2011
         sub_title: Sri Chaitanya College
         quote: >
           Completed intermediate education in Hyderabad by obtaining certification from State Board of Intermediate Education.
       
-      - layout: center
+      - layout: left
         title: SSC
         caption: 1997 - 2009
         sub_title: Don Bosco High School
