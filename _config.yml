@@ -66,8 +66,8 @@ content:
             - Leading a team of seven to accomplish the business requirements.
 
       - layout: top-middle
-        title: HashtagHyderabad
-        sub_title: Director of Event Management
+        title: Director of Event Management
+        sub_title: HashtagHyderabad
         caption: October 2017 - July 2019
         quote: >
           An event management company that worked on organizing events.
@@ -159,6 +159,15 @@ content:
         sub_title: Don Bosco High School
         quote: >
           Completed schooling with 85% Hyderabad, with certification from State Board of Secondary Education.
+
+  - title: A Little More About Me
+    layout: text
+    content: |
+      Alongside my interests in software engineering some of my other interests and hobbies are:
+      - Driving
+      - Music
+      - Gardening
+      - Cooking
 
   # - title: Projects
   #   layout: list
