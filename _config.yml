@@ -25,16 +25,14 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: ValueMomentum
+        title: Senior Software Engineer
         link: https://valuemomentum.com/
-        link_text: ValueMomentum Software Services
-        sub_title: Senior Software Engineer
+        link_text: ValueMomentum
+        sub_title: ValueMomentum Software Services
         caption: October 2022 - Present
         quote: >
           Scaling the initial product built to cater increasing business demand.
         description: |
-            <details>
-            <summary>More details</summary>
             - Setting up CI/CD using AWS SDK and GitHub Actions.
             - Converting existing monolithic architecture to microservices architecture.
             - Using pub-sub based communication to loosely couple services.
@@ -44,13 +42,12 @@ content:
             - Refine backlogs, providing estimates and not only align team but to work with team to achieve target timelines.
             - Documenting architecture and solution to confluence for future reference.
             - Implementation of different cron jobs.
-            </details>
 
       - layout: top-middle
-        title: ValueMomentum
+        title: Software Engineer
         link: https://valuemomentum.com/
-        link_text: ValueMomentum Software Services
-        sub_title: Software Engineer
+        link_text: ValueMomentum
+        sub_title: ValueMomentum Software Services
         caption: September 2019 - October 2022
         quote: >
           Development of an insurance-based product using APIs and plugins.
@@ -80,10 +77,10 @@ content:
             - Handle vendors from different backgrounds and bridge them together to conduct a pleasant experience.
       
       - layout: top-middle
-        title: HCLTech
+        title: Product Support Engineer
         link: https://www.hcltech.com/
         link_text: HCLTech
-        sub_title: Product Support Engineer
+        sub_title: HCLTech
         caption: April 2017 - August 2017
         quote: >
           Troubleshooting for Google's DoubleClick for Publisher clients like Microsoft, Motorola, Samsung, Apple etc.
@@ -92,10 +89,10 @@ content:
             - Gather information from user inquiries, read technical manuals, confer with users, conduct diagnostics to investigate and resolve problems by providing technical assistance.
 
       - layout: top-middle
-        title: Tata Consultancy Services
+        title: Quality Assurance Engineer
         link: https://www.tcs.com/
         link_text: Tata Consultancy Services
-        sub_title: Contract Assignee - Quality Assurance Engineer
+        sub_title: Tata Consultancy Services
         caption: January 2016 - October 2016
         quote: >
           Manual testing on Telecom Domain
