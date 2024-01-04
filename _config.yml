@@ -32,7 +32,9 @@ content:
         caption: October 2022 - Present
         quote: >
           Scaling the initial product built to cater increasing business demand.
-        description: | 
+        description: |
+            <details>
+            <summary>More details</summary>
             - Setting up CI/CD using AWS SDK and GitHub Actions.
             - Converting existing monolithic architecture to microservices architecture.
             - Using pub-sub based communication to loosely couple services.
@@ -42,6 +44,7 @@ content:
             - Refine backlogs, providing estimates and not only align team but to work with team to achieve target timelines.
             - Documenting architecture and solution to confluence for future reference.
             - Implementation of different cron jobs.
+            </details>
 
       - layout: top-middle
         title: ValueMomentum
