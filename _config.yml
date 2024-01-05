@@ -42,6 +42,7 @@ content:
             - Refine backlogs, providing estimates and not only align team but to work with team to achieve target timelines.
             - Documenting architecture and solution to confluence for future reference.
             - Implementation of different cron jobs.
+            - Implementation of event driven architecture.
 
       - layout: top-middle
         title: Software Engineer
