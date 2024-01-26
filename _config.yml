@@ -18,7 +18,7 @@ linkedin_username: krishna1433
 about_title: Introduction
 about_profile_image: images/profile.jpg
 about_content: |
-  As a senior software engineer with five years of experience in .NET and AWS working at ValueMomentum, excelling in web applications, backend services, UI/UX development, and building API that serves at least 10,000 requests per day. Currently pursuing AWS Cloud Practitioner Certification.
+  A senior software engineer with five years of experience in .NET and AWS working at ValueMomentum, excelling in web applications, backend services, UI/UX development, and building API that serves at least 10,000 requests per day. Currently pursuing AWS Cloud Practitioner Certification.
 
 content:
   - title: Full Time Work Experience
@@ -34,18 +34,15 @@ content:
           Scaled the initial product to meet increasing business demand by guiding the team in client collaboration, ensuring comprehension of requirements, and proposing technical workflows.
         description: |
           - Validated alignment between specifications and implementation, facilitated team understanding of implementation details, and addressed technical challenges.
-          - Coded to specifications, effected infrastructure changes based on business requirements, and adapted deployment pipelines.
-          - Oversaw Jira administration, contributed to documentation, and managed Git branching and workflows.
+          - Coded to specifications, effected infrastructure changes based on business requirements.
+          - Jira administration, managed Git branching and workflows, documented architecture and solutions, establishing a valuable knowledge repository for future reference and team-wide understanding.
           - Conducted reviews and pioneered the implementation of CI/CD using the AWS SDK and GitHub Actions for a 50% enhancement in continuous integration efficiency.
           - Orchestrated the transition from monolithic to microservices architecture, yielding significant improvements in logging, scalability, and team organization.
-          - Administered implementation of pub-sub-based communication protocols, notably increasing the flexibility and decoupling of services.
-          - Sustained effective asynchronous communication, leveraging messaging systems to bolster system responsiveness.
+          - Administered implementation of pub-sub-based communication protocols, notably increasing the flexibility and decoupling of services achieving effective asynchronous communication.
           - Developed accelerators and scripted processes for converting business specifications into system readable files, expediting development workflows.
-          - Communicated with clients and service teams through daily meetings, adeptly identifying and resolving issues while implementing effective solutions.
-          - Systematically refined backlogs, provided precise estimates, and collaborated with the team, ensuring alignment and meeting target timelines.
-          - Documented architecture and solutions on Confluence, establishing a valuable knowledge repository for future reference and team-wide understanding.
           - Accomplished diverse batch jobs, automating routine tasks and enhancing system efficiency.
           - Implemented an event-driven architecture, introducing a highly responsive and efficient system design.
+          - Setup and designed post-payment processing workflows for the [Stripe Payment Gateway](https://stripe.com/).
 
       - layout: top-middle
         title: Software Engineer
@@ -56,15 +53,13 @@ content:
         quote: >
           Development of an insurance-based product using APIs, plugins, incorporating third party APIs and invoicing collection.
         description: |
+          - Communicated with clients and service teams through daily meetings, adeptly identifying and resolving issues while implementing effective solutions.
           - Employed APIs to establish communication with the [Socotra Policy Administration System](https://www.socotra.com/) for insurance policy issuance and servicing.
           - Managed the generation of invoices based on installment plans, mortgagee bills, agency bill and checks.
-          - Translated business requirements into technical specifications, delivering effective solutions for implementation.
-          - Applied JavaScript to write logic for configuring a Price Quote (CPQ) Software, incorporating the development of underwriting plugins.
+          - Applied JavaScript logic for configuring a Price Quote (CPQ) Software, incorporating the development of underwriting plugins.
           - Achieved PDF and HTML based document generation using liquid templates, Razor templates by using C# SDKs.
           - Collaborated on third-party integrations using GraphQL and HTTP requests for generating a quote.
-          - Setup and designed post-payment processing workflows for the [Stripe Payment Gateway](https://stripe.com/).
-          - Generated documents and facilitated electronic signatures through third-party tools to ensure compliance.
-          - Leveraged a database to store pertinent information related to quote and policy processing.
+          - Facilitated electronic signatures through third-party tools to ensure compliance.
           - Authored stored procedures for streamlined communication with the database and thus maintaining uniformity across code.
           - Constructed a mapping layer, facilitating seamless integration and communication between front-end and backend systems.
           - Led a team of seven members to accomplish business requirements.
