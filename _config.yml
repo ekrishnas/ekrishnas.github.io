@@ -27,14 +27,14 @@ content:
         quote: |
           Scaled the initial product to meet increasing business demand by guiding the team in client collaboration, ensuring comprehension of requirements, and proposing technical workflows.
         description: |
-          - Validated specifications, facilitated team understanding of implementation details, and addressed technical challenges which improved team delivery for a sprint by at least 30% as TAT decreased.
-          - Proposed infrastructure changes based on business requirements and addressed scalability which resolved bulk quote conversion issues which increased revenue by 60%.
-          - Jira administration, managed Git branching and workflows, documented architecture and solutions, establishing a valuable knowledge repository for future reference and team-wide understanding.
-          - Conducted reviews and pioneered the implementation of CI/CD using the AWS SDK and GitHub Actions for a 50% enhancement in continuous integration efficiency.
-          - Orchestrated the transition from monolithic to microservices architecture, yielding significant improvements in logging, scalability. This reduced errors and improved performance by 6 seconds.
-          - Implemented an event-driven architecture using pub-sub-based communication protocols, notably increasing the flexibility and decoupling of services achieving effective asynchronous communication which eliminated regression issues by multi fold.
-          - Developed accelerators and scripted processes for converting business specifications into system readable files, expediting development workflows by at least 3 days.
-          - Accomplished diverse batch jobs, automating routine tasks and enhancing system efficiency freeing up service team from tedious task and saved 2 days a week.
+          - Validated specifications, improved team delivery by 30% for a sprint by decreasing Turnaround Time (TAT).  
+          - Proposed infrastructure changes based on business requirements, resolving bulk quote conversion issues and increasing revenue by 60%.
+          - Managed Jira administration, Git branching, and workflows, documenting architecture and solutions for future reference and team-wide understanding.
+          - Pioneered CI/CD implementation using AWS SDK and GitHub Actions, achieving a 50% enhancement in continuous integration efficiency.
+          - Orchestrated the transition to microservices architecture, reducing errors and improving performance by 6 seconds.
+          - Implemented an event-driven architecture with pub-sub-based communication protocols, eliminating regression issues.
+          - Developed accelerators and scripted processes, expediting development workflows by at least 3 days.
+          - Automated diverse batch jobs, enhancing system efficiency and saving the service team 2 days a week.
           - Setup and designed post-payment processing workflows for the [Stripe Payment Gateway](https://stripe.com/).
 
       - layout: top-middle
@@ -46,14 +46,14 @@ content:
         quote: |
           Development of an insurance-based product using APIs, plugins, incorporating third party APIs and invoicing collection.
         description: |
-          - Employed APIs to establish communication with the [Socotra Policy Administration System](https://www.socotra.com/) for insurance policy issuance and servicing.
-          - Developed installment plan invoices and automated workflows for mortgagee bills, agency bills, and check collection, reducing service team dependency by one day.
-          - Applied JavaScript logic for configuring a Price Quote (CPQ) Software, incorporating the development of underwriting plugins resulting in quotes and approval in less than 3 seconds.
-          - Achieved PDF and HTML based document generation using liquid templates later moving document generation through Razor templates by using C# SDKs thus reducing document generation time by at least 5 seconds.
-          - Collaborated on third-party integrations using GraphQL and HTTP requests for generating a quote.
+          - Used APIs to communicate with the [Socotra Policy Administration System](https://www.socotra.com/) for insurance policy issuance and servicing.
+          - Developed installment plan invoices and automated workflows, reducing service team dependency by one day.
+          - Applied JavaScript logic to configure a Price Quote (CPQ) Software, resulting in quotes and approval in less than 3 seconds.
+          - Achieved PDF and HTML document generation using liquid templates, later transitioning to Razor templates with C# SDKs, reducing document generation time by at least 5 seconds.
+          - Collaborated on third-party integrations using GraphQL and HTTP requests for quote generation.
           - Facilitated electronic signatures through third-party tools to ensure compliance.
-          - Authored stored procedures for streamlined communication with the database and thus maintaining uniformity across code.
-          - Constructed a mapping layer, facilitating integration and communication between front-end and back-end systems, which resulted in reasonable response times by at least 3 seconds.
+          - Authored stored procedures for streamlined database communication, maintaining uniformity across code.
+          - Constructed a mapping layer, facilitating integration and communication between front-end and back-end systems, resulting in reasonable response times by at least 3 seconds.
           - Led a team of seven members to accomplish business requirements.
 
       - layout: top-middle
@@ -65,7 +65,7 @@ content:
         description: |
           - Conducted meetings with potential clients, converting leads into tangible business value.
           - Orchestrated diverse events, including corporate gatherings, traditional ceremonies, weddings, birthdays, business openings, and media events.
-          - Persuaded vendors from diverse backgrounds bringing together to create a cohesive and pleasant event experience.
+          - Persuaded vendors from diverse backgrounds, bringing them together to create a cohesive and pleasant event experience.
       - layout: top-middle
         title: Product Support Engineer
         link: https://www.hcltech.com/
@@ -75,7 +75,7 @@ content:
         quote: |
           Diagnosed for Google's DoubleClick for Publisher clients like Microsoft, Motorola, Samsung, Apple.
         description: |
-          - Documented software defects using a bug tracking system (JIRA) and reported issues to software developers following initial analysis.
+          - Documented software defects using a bug tracking system (JIRA) and reported issues to software developers after initial analysis.
           - Gathered information from user inquiries, read technical manuals, consulted with users, and conducted diagnostics to investigate and resolve problems, providing necessary technical assistance.
       - layout: top-middle
         title: Quality Assurance Engineer
