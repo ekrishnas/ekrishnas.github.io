@@ -26,13 +26,13 @@ content:
         quote: |
           Scaled the initial product to meet increasing business demand by guiding the team in client collaboration, ensuring comprehension of requirements, and proposing technical workflows.
         description: |
-          - Validated specifications, improved team delivery by 30% for a sprint by decreasing Turnaround Time.  
+          - Validated specifications improved team delivery by 30% for a sprint by decreasing turnaround time.
           - Proposed infrastructure changes based on business requirements, resolving bulk quote conversion issues and increasing revenue by 60%.
           - Managed Jira administration, Git branching, and workflows, documenting architecture and solutions for future reference and team-wide understanding.
           - Pioneered CI/CD implementation using AWS SDK and GitHub Actions, achieving a 50% enhancement in continuous integration efficiency.
           - Orchestrated the transition to microservices architecture, reducing errors and improving performance by 6 seconds.
           - Implemented an event-driven architecture with pub-sub-based communication protocols, eliminating regression issues by 40%.
-          - Developed accelerators and scripted processes, expediting development workflows by at least 3 days.
+          - Developed accelerators and scripted processes, thereby expediting development workflows by at least 3 days.
           - Automated diverse batch jobs, enhancing system efficiency and saving the service team 2 days a week.
           - Setup and designed post-payment processing workflows for the [Stripe Payment Gateway](https://stripe.com/).
 
@@ -45,12 +45,10 @@ content:
         quote: |
           Development of an insurance-based product using APIs, plugins, incorporating third party APIs and invoicing collection.
         description: |
-          - Developed APIs to communicate with the [Socotra Policy Administration System](https://www.socotra.com/) for insurance policy issuance and servicing.
+          - Designed and implemented APIs to communicate with the [Socotra Policy Administration System](https://www.socotra.com/) for insurance policy issuance and servicing by incorporating third-party integrations using GraphQL and HTTP requests for quote generation.
           - Developed installment plan invoices and automated workflows, reducing service team dependency by one day.
           - Applied JavaScript logic to configure a Price Quote (CPQ) Software, resulting in quotes and approval in less than 3 seconds.
-          - Achieved PDF and HTML document generation using liquid templates, later transitioning to Razor templates with C# SDKs, reducing document generation time by at least 5 seconds.
-          - Collaborated on third-party integrations using GraphQL and HTTP requests for quote generation.
-          - Facilitated electronic signatures through third-party tools to ensure compliance.
+          - Achieved PDF and HTML document generation using liquid templates, later transitioning to Razor templates with C# SDKs, reducing document generation time by at least 5 seconds and electronic signatures through third-party tools to ensure compliance.
           - Authored stored procedures for streamlined database communication, maintaining uniformity across code.
           - Constructed a mapping layer, facilitating integration and communication between front-end and back-end systems, resulting in reasonable response times by at least 3 seconds.
 
@@ -61,9 +59,7 @@ content:
         quote: |
           An event management company that designs and executes events for individuals and organizations.
         description: |
-          - Conducted meetings with potential clients, converting leads into tangible business value.
-          - Orchestrated diverse events, including corporate gatherings, traditional ceremonies, weddings, birthdays, business openings, and media events.
-          - Persuaded vendors from diverse backgrounds, bringing together to create a cohesive and pleasant event experience.
+          - Conducted meetings with potential clients, converting leads into tangible business value, orchestrated events, including corporate gatherings, weddings, birthdays, business openings by coordinating with vendors from diverse backgrounds to create a cohesive and pleasant event experience.
 
       - layout: top-middle
         title: Product Support Engineer
