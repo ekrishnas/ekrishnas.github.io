@@ -109,8 +109,6 @@ content:
         caption: 10/2022
         quote: >
           This award is given to an associate who has made a big positive difference in the company.
-        description: |
-          [Click for certificate!](/images/VM_You have made a difference.png)
 
       - layout: left
         title: Highflier of the Quarter - Innovation
@@ -118,8 +116,6 @@ content:
         caption: 08/2021
         quote: >
           A Highflier award in Innovation category is awarded to an employee whose contribution has been innovative to the company and has made a difference to the company.
-        description: |
-          [Click for certificate!](/images/VM_Highflier Innovation.png)
 
   - title: Prominent Skills
     layout: text
@@ -164,7 +160,7 @@ content:
   #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 remote_theme: sproogen/resume-theme
