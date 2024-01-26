@@ -40,7 +40,7 @@ content:
           - Orchestrated the transition from monolithic to microservices architecture, yielding significant improvements in logging, scalability, and team organization.
           - Implemented pub-sub-based communication protocols, notably increasing the flexibility and decoupling of services.
           - Sustained effective asynchronous communication, leveraging messaging systems to bolster system responsiveness.
-          - Developed accelerators and scripted processes for converting business specifications into system parsable files, expediting development workflows.
+          - Developed accelerators and scripted processes for converting business specifications into system readable files, expediting development workflows.
           - Communicated with clients and service teams through daily meetings, adeptly identifying and resolving issues while implementing effective solutions.
           - Systematically refined backlogs, provided precise estimates, and collaborated with the team, ensuring alignment and meeting target timelines.
           - Documented architecture and solutions on Confluence, establishing a valuable knowledge repository for future reference and team-wide understanding.
