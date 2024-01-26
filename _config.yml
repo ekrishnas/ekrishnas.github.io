@@ -147,15 +147,6 @@ content:
         quote: >
           Obtained bachelors degree with 67% in Electronics and Communications Engineering in Hyderabad from Jawaharlal Nehru Technological University.
 
-  - title: Hobbies and interests
-    layout: text
-    content: |
-      Apart from interest in software engineering some of other interests and hobbies are:
-      - Driving
-      - Music
-      - Gardening
-      - Cooking
-
   # - title: Projects
   #   layout: list
   #   content:
