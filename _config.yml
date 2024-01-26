@@ -45,12 +45,10 @@ content:
         quote: |
           Development of an insurance-based product using APIs, plugins, incorporating third party APIs and invoicing collection.
         description: |
-          - Designed and implemented APIs to communicate with the [Socotra Policy Administration System](https://www.socotra.com/) for insurance policy issuance and servicing by incorporating third-party integrations using GraphQL and HTTP requests for quote generation.
-          - Developed installment plan invoices and automated workflows, reducing service team dependency by one day.
-          - Applied JavaScript logic to configure a Price Quote (CPQ) Software, resulting in quotes and approval in less than 3 seconds.
-          - Achieved PDF and HTML document generation using liquid templates, later transitioning to Razor templates with C# SDKs, reducing document generation time by at least 5 seconds and electronic signatures through third-party tools to ensure compliance.
-          - Authored stored procedures for streamlined database communication, maintaining uniformity across code.
-          - Constructed a mapping layer, facilitating integration and communication between front-end and back-end systems, resulting in reasonable response times by at least 3 seconds.
+          - Designed and implemented APIs to communicate with the  [Socotra Policy Administration System](https://www.socotra.com/) for insurance policy issuance and servicing. Incorporated third-party integration using GraphQL and HTTP requests for quote generation.
+          - Developed logic to price a quote and get automated underwriting approval in less than 5 seconds, plan invoices, and automating invoice collection thereby reducing service team dependency by one day.
+          - Achieved PDF and HTML document generation using liquid templates, later transitioning to Razor templates with C# SDKs, reducing document generation time by at least 5 seconds.
+          - Constructed a mapping layer and Authored stored procedures for streamlined database communication, facilitating integration and communication between front-end and back-end systems, resulting in reasonable response times by at least 3 seconds.
 
       - layout: top-middle
         title: Director
@@ -59,7 +57,7 @@ content:
         quote: |
           An event management company that designs and executes events for individuals and organizations.
         description: |
-          - Conducted meetings with potential clients, converting leads into tangible business value, orchestrated events, including corporate gatherings, weddings, birthdays, business openings by coordinating with vendors from diverse backgrounds to create a cohesive and pleasant event experience.
+          - Conducted meetings with potential clients, converting leads into tangible business, orchestrated events like corporate & personal events by coordinating with vendors from diverse backgrounds to create a cohesive and pleasant event experience.
 
       - layout: top-middle
         title: Product Support Engineer
@@ -87,7 +85,7 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: Made a Difference - Annual award.
+        title: Made a Difference - 2022 Annual award.
         sub_title: ValueMomentum
         caption: '2022'
         quote: |
