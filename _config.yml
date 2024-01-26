@@ -38,13 +38,13 @@ content:
           - Oversaw Jira administration, contributed to documentation, and managed Git branching and workflows.
           - Conducted reviews and pioneered the implementation of CI/CD using the AWS SDK and GitHub Actions for a 50% enhancement in continuous integration efficiency.
           - Orchestrated the transition from monolithic to microservices architecture, yielding significant improvements in logging, scalability, and team organization.
-          - Implemented pub-sub-based communication protocols, notably increasing the flexibility and decoupling of services.
+          - Carried out implementation of pub-sub-based communication protocols, notably increasing the flexibility and decoupling of services.
           - Sustained effective asynchronous communication, leveraging messaging systems to bolster system responsiveness.
           - Developed accelerators and scripted processes for converting business specifications into system readable files, expediting development workflows.
           - Communicated with clients and service teams through daily meetings, adeptly identifying and resolving issues while implementing effective solutions.
           - Systematically refined backlogs, provided precise estimates, and collaborated with the team, ensuring alignment and meeting target timelines.
           - Documented architecture and solutions on Confluence, establishing a valuable knowledge repository for future reference and team-wide understanding.
-          - Implemented diverse batch jobs, automating routine tasks and enhancing system efficiency.
+          - Accomplished diverse batch jobs, automating routine tasks and enhancing system efficiency.
           - Implemented an event-driven architecture, introducing a highly responsive and efficient system design.
 
       - layout: top-middle
@@ -60,7 +60,7 @@ content:
           - Managed the generation of invoices based on installment plans, mortgagee bills, agency bill and checks.
           - Translated business requirements into technical specifications, delivering effective solutions for implementation.
           - Applied JavaScript to write logic for configuring a Price Quote (CPQ) Software, incorporating the development of underwriting plugins.
-          - Implemented PDF and HTML based document generation using liquid templates, Razor templates by using C# SDKs.
+          - Achieved PDF and HTML based document generation using liquid templates, Razor templates by using C# SDKs.
           - Collaborated on third-party integrations using GraphQL and HTTP requests for generating a quote.
           - Setup and designed post-payment processing workflows for the [Stripe Payment Gateway](https://stripe.com/).
           - Generated documents and facilitated electronic signatures through third-party tools to ensure compliance.
