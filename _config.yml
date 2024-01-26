@@ -18,7 +18,9 @@ linkedin_username: krishna1433
 about_title: Introduction
 about_profile_image: images/profile.jpg
 about_content: |
-  I'm currently working as a senior software engineer at ValueMomentum. Experienced in web applications, backend services, building user interface and APIs, integration with external services, payment gateway integration and etc,. I'm current preparing for AWS Cloud Practitioner Certification. I'm most skilled in: <mark>.NET</mark> and <mark>AWS</mark>.
+  I'm currently working as a senior software engineer at ValueMomentum. Experienced in web applications, backend services, building user interfaces and APIs, integration with external services, payment gateway integration, etc. I'm currently preparing for the AWS Cloud Practitioner Certification. I'm most skilled in: <mark>.NET</mark> and <mark>AWS</mark>.
+
+  I'm responsible for managing my team's work with customers. Understanding requirements, suggesting technical workflows, checking if there are gaps between requirement specifications and technical implementations, making sure the team understands implementation details, checking if there are any technical difficulties, writing code against the specifications, making infrastructure changes with respect to business specifications, altering deployment pipelines, Jira administration, documenting in confluence, maintaining Git branching and workflows, reviewing Pull Requests, feature flagging new features, etc.
 
 content:
   - title: Full Time Work Experience
@@ -31,18 +33,18 @@ content:
         sub_title: ValueMomentum Software Services
         caption: October 2022 - Present
         quote: >
-          Scaling the initial product built to cater increasing business demand.
+          Scale the initial product built to cater increasing business demand.
         description: |
-            - Setting up CI/CD using AWS SDK and GitHub Actions.
-            - Converting existing monolithic architecture to microservices architecture.
-            - Using pub-sub based communication to loosely couple services.
-            - Maintain asynchronous communication where ever possible using messaging systems.
-            - Building accelerators and write scripts to convert business specifications into system understandable files.
-            - Talk to client, service team through daily meetings to better understand their problems and providing solutions along with implementation.
-            - Refine backlogs, providing estimates and not only align team but to work with team to achieve target timelines.
-            - Documenting architecture and solution to confluence for future reference.
-            - Implementation of different cron jobs.
-            - Implementation of event driven architecture.
+          - Spearheaded the establishment of CI/CD using the AWS SDK and GitHub Actions, resulting in an impressive 50% improvement in continuous integration efficiency.
+          - Orchestrated the conversion of the existing monolithic architecture to a microservices architecture, delivering substantial enhancements in logging, scalability, and team organization.
+          - Implemented pub-sub-based communication protocols, achieving a notable increase in the flexibility and decoupling of services.
+          - Consistently maintained asynchronous communication, leveraging messaging systems wherever possible to enhance system responsiveness.
+          - Developed accelerators and wrote scripts, streamlining the conversion of business specifications into system-understandable files, resulting in a significant acceleration of development processes.
+          - Engaged in proactive communication with clients and service teams through daily meetings, successfully identifying and addressing issues while providing effective solutions and implementations.
+          - Systematically refined backlogs, provided accurate estimates, and actively collaborated with the team, ensuring alignment and meeting target timelines consistently.
+          - Documented architecture and solutions on Confluence, creating a valuable knowledge repository for future reference and team-wide understanding.
+          - Implemented a variety of cron jobs, automating routine tasks and improving system efficiency.
+          - Successfully implemented an event-driven architecture, introducing a highly responsive and efficient system design.
 
       - layout: top-middle
         title: Software Engineer
@@ -53,18 +55,18 @@ content:
         quote: >
           Development of an insurance-based product using APIs and plugins.
         description: |
-            - Using APIs to communicate with [Socotra Policy Administration System](https://www.socotra.com/) for insurance policy issuance and policy servicing.
-            - Working on generating invoices based on installments.
-            - Converting business requirements into technical specifications and solutioning them.
-            - Using JavaScript to write logic to configure a Price Quote (CPQ) Software, underwriting plugins.
-            - Document generation using liquid templates and C# SDKs.
-            - Third party integrations using GraphQL and HTTP requests.
-            - [Stripe Payment Gateway setup](https://stripe.com/), integration and designing post payment processing workflows.
-            - Generate documents and request for electronic signatures using third parties for compliance.
-            - Using database to store relevant information related to quote and policy processing.
-            - Writing stored procedures for database communication.
-            - Building a mapping layer between two complicated systems for seamless integration between front end and backend.
-            - Leading a team of seven to accomplish the business requirements.
+          - Utilized APIs to establish communication with the [Socotra Policy Administration System](https://www.socotra.com/) for insurance policy issuance and policy servicing.
+          - Worked on the generation of invoices based on installment plans.
+          - Converted business requirements into technical specifications, providing effective solutions for implementation.
+          - Applied JavaScript to write logic for configuring a Price Quote (CPQ) Software, including the development of underwriting plugins.
+          - Implemented document generation using liquid templates and C# SDKs.
+          - Collaborated on third-party integrations using GraphQL and HTTP requests.
+          - Setup, integrated, and designed post-payment processing workflows for the [Stripe Payment Gateway](https://stripe.com/).
+          - Generated documents and facilitated electronic signatures through third-party tools to ensure compliance.
+          - Utilized a database to store relevant information related to quote and policy processing.
+          - Authored stored procedures for effective communication with the database.
+          - Built a mapping layer to seamlessly integrate and facilitate communication between front-end and backend systems.
+          - Led a team of seven members, successfully steering them to accomplish business requirements.
 
       - layout: top-middle
         title: Director of Event Management
@@ -73,9 +75,9 @@ content:
         quote: >
           An event management company that worked on organizing events.
         description: | 
-            - Meet with potential clients and converting the leads into business value.
-            - Organize corporate, traditional, weddings, birthdays, business openings and media events.
-            - Handle vendors from different backgrounds and bridge them together to conduct a pleasant experience.
+          - Conducted meetings with potential clients, successfully converting leads into tangible business value.
+          - Orchestrated a variety of events, including corporate gatherings, traditional ceremonies, weddings, birthdays, business openings, and media events.
+          - Effectively managed vendors from diverse backgrounds, seamlessly bridging them together to create a cohesive and pleasant event experience.
       
       - layout: top-middle
         title: Product Support Engineer
@@ -86,8 +88,8 @@ content:
         quote: >
           Troubleshooting for Google's DoubleClick for Publisher clients like Microsoft, Motorola, Samsung, Apple etc.
         description: | 
-            - Document software defects using a bug tracking system (JIRA) and report defects to software developers after initial analysis.
-            - Gather information from user inquiries, read technical manuals, confer with users, conduct diagnostics to investigate and resolve problems by providing technical assistance.
+          - Documented software defects using a bug tracking system (JIRA) and reported issues to software developers after conducting initial analysis.
+          - Collected information from user inquiries, read technical manuals, consulted with users, and performed diagnostics to investigate and resolve problems, providing technical assistance as needed.
 
       - layout: top-middle
         title: Quality Assurance Engineer
@@ -98,7 +100,7 @@ content:
         quote: >
           Manual testing on Telecom Domain
         description: | 
-            - Manual Testing of CRM tools like Salesforce, Oracle Communications Order and Service Management, Billing & Revenue Management (BRM) for a Philippines and a Canadian client.
+          - Conducted manual testing of CRM tools, including Salesforce and Oracle Communications Order and Service Management, Billing & Revenue Management (BRM), for both a Philippines and a Canadian client.
 
   - title: Awards and Recognition
     layout: list
