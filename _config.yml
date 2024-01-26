@@ -18,9 +18,9 @@ linkedin_username: krishna1433
 about_title: Introduction
 about_profile_image: images/profile.jpg
 about_content: |
-  I'm currently working as a senior software engineer at ValueMomentum. Experienced in web applications, backend services, building user interfaces and APIs, integration with external services, payment gateway integration, etc. I'm currently preparing for the AWS Cloud Practitioner Certification. I'm most skilled in: <mark>.NET</mark> and <mark>AWS</mark>.
+  As a senior software engineer at ValueMomentum, I excel in web applications, backend services, UI/UX development, and API creation. Currently pursuing AWS Cloud Practitioner Certification, I specialize in .NET and AWS.
 
-  I'm responsible for managing my team's work with customers. Understanding requirements, suggesting technical workflows, checking if there are gaps between requirement specifications and technical implementations, making sure the team understands implementation details, checking if there are any technical difficulties, writing code against the specifications, making infrastructure changes with respect to business specifications, altering deployment pipelines, Jira administration, documenting in confluence, maintaining Git branching and workflows, reviewing Pull Requests, feature flagging new features, etc.
+  In my leadership role, I guide my team in client collaboration, ensuring deep comprehension of requirements, proposing technical workflows, validating alignment between specifications and implementation, facilitating team understanding of implementation details, addressing technical challenges, coding to specifications, effecting infrastructure changes based on business requirements, adapting deployment pipelines, overseeing Jira administration, contributing to documentation, managing Git branching and workflows, conducting reviews, etc.
 
 content:
   - title: Full Time Work Experience
@@ -35,15 +35,15 @@ content:
         quote: >
           Scale the initial product built to cater increasing business demand.
         description: |
-          - Spearheaded the establishment of CI/CD using the AWS SDK and GitHub Actions, resulting in an impressive 50% improvement in continuous integration efficiency.
-          - Orchestrated the conversion of the existing monolithic architecture to a microservices architecture, delivering substantial enhancements in logging, scalability, and team organization.
-          - Implemented pub-sub-based communication protocols, achieving a notable increase in the flexibility and decoupling of services.
-          - Consistently maintained asynchronous communication, leveraging messaging systems wherever possible to enhance system responsiveness.
-          - Developed accelerators and wrote scripts, streamlining the conversion of business specifications into system-understandable files, resulting in a significant acceleration of development processes.
-          - Engaged in proactive communication with clients and service teams through daily meetings, successfully identifying and addressing issues while providing effective solutions and implementations.
-          - Systematically refined backlogs, provided accurate estimates, and actively collaborated with the team, ensuring alignment and meeting target timelines consistently.
-          - Documented architecture and solutions on Confluence, creating a valuable knowledge repository for future reference and team-wide understanding.
-          - Implemented a variety of cron jobs, automating routine tasks and improving system efficiency.
+          - Pioneered the implementation of CI/CD using the AWS SDK and GitHub Actions, resulting in an impressive 50% enhancement in continuous integration efficiency.
+          - Orchestrated the transition from the existing monolithic architecture to a microservices architecture, yielding significant improvements in logging, scalability, and team organization.
+          - Implemented pub-sub-based communication protocols, notably increasing the flexibility and decoupling of services.
+          - Sustained effective asynchronous communication, leveraging messaging systems to bolster system responsiveness.
+          - Developed accelerators and scripted streamlined processes for converting business specifications into system-understandable files, significantly expediting development workflows.
+          - Proactively communicated with clients and service teams through daily meetings, adeptly identifying and resolving issues while implementing effective solutions.
+          - Systematically refined backlogs, provided precise estimates, and actively collaborated with the team, ensuring alignment and consistently meeting target timelines.
+          - Documented architecture and solutions on Confluence, establishing a valuable knowledge repository for future reference and team-wide understanding.
+          - Implemented diverse cron jobs, automating routine tasks and enhancing system efficiency.
           - Successfully implemented an event-driven architecture, introducing a highly responsive and efficient system design.
 
       - layout: top-middle
@@ -55,18 +55,18 @@ content:
         quote: >
           Development of an insurance-based product using APIs and plugins.
         description: |
-          - Utilized APIs to establish communication with the [Socotra Policy Administration System](https://www.socotra.com/) for insurance policy issuance and policy servicing.
-          - Worked on the generation of invoices based on installment plans.
-          - Converted business requirements into technical specifications, providing effective solutions for implementation.
-          - Applied JavaScript to write logic for configuring a Price Quote (CPQ) Software, including the development of underwriting plugins.
+          - Employed APIs to establish communication with the [Socotra Policy Administration System](https://www.socotra.com/) for insurance policy issuance and servicing.
+          - Managed the generation of invoices based on installment plans.
+          - Translated business requirements into technical specifications, delivering effective solutions for implementation.
+          - Applied JavaScript to write logic for configuring a Price Quote (CPQ) Software, incorporating the development of underwriting plugins.
           - Implemented document generation using liquid templates and C# SDKs.
           - Collaborated on third-party integrations using GraphQL and HTTP requests.
           - Setup, integrated, and designed post-payment processing workflows for the [Stripe Payment Gateway](https://stripe.com/).
           - Generated documents and facilitated electronic signatures through third-party tools to ensure compliance.
-          - Utilized a database to store relevant information related to quote and policy processing.
-          - Authored stored procedures for effective communication with the database.
-          - Built a mapping layer to seamlessly integrate and facilitate communication between front-end and backend systems.
-          - Led a team of seven members, successfully steering them to accomplish business requirements.
+          - Leveraged a database to store pertinent information related to quote and policy processing.
+          - Authored stored procedures for streamlined communication with the database.
+          - Constructed a mapping layer, facilitating seamless integration and communication between front-end and backend systems.
+          - Led a team of seven members, effectively guiding them to accomplish business requirements.
 
       - layout: top-middle
         title: Director of Event Management
@@ -75,9 +75,9 @@ content:
         quote: >
           An event management company that worked on organizing events.
         description: | 
-          - Conducted meetings with potential clients, successfully converting leads into tangible business value.
-          - Orchestrated a variety of events, including corporate gatherings, traditional ceremonies, weddings, birthdays, business openings, and media events.
-          - Effectively managed vendors from diverse backgrounds, seamlessly bridging them together to create a cohesive and pleasant event experience.
+          - Conducted meetings with potential clients, converting leads into tangible business value.
+          - Orchestrated diverse events, including corporate gatherings, traditional ceremonies, weddings, birthdays, business openings, and media events.
+          - Managed vendors from diverse backgrounds, seamlessly bridging them together to create a cohesive and pleasant event experience.
       
       - layout: top-middle
         title: Product Support Engineer
@@ -88,8 +88,8 @@ content:
         quote: >
           Troubleshooting for Google's DoubleClick for Publisher clients like Microsoft, Motorola, Samsung, Apple etc.
         description: | 
-          - Documented software defects using a bug tracking system (JIRA) and reported issues to software developers after conducting initial analysis.
-          - Collected information from user inquiries, read technical manuals, consulted with users, and performed diagnostics to investigate and resolve problems, providing technical assistance as needed.
+          - Documented software defects using a bug tracking system (JIRA) and reported issues to software developers following initial analysis.
+          - Gathered information from user inquiries, read technical manuals, consulted with users, and conducted diagnostics to investigate and resolve problems, providing necessary technical assistance.
 
       - layout: top-middle
         title: Quality Assurance Engineer
@@ -100,7 +100,7 @@ content:
         quote: >
           Manual testing on Telecom Domain
         description: | 
-          - Conducted manual testing of CRM tools, including Salesforce and Oracle Communications Order and Service Management, Billing & Revenue Management (BRM), for both a Philippines and a Canadian client.
+          - Executed manual testing of CRM tools, encompassing Salesforce and Oracle Communications Order and Service Management, Billing & Revenue Management (BRM), for clients in both the Philippines and Canada.
 
   - title: Awards and Recognition
     layout: list
