@@ -104,7 +104,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: Made a Difference
+        title: Made a difference
         sub_title: Issued by ValueMomentum
         caption: "2022"
         quote: >
