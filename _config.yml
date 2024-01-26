@@ -27,7 +27,7 @@ content:
         quote: |
           Scaled the initial product to meet increasing business demand by guiding the team in client collaboration, ensuring comprehension of requirements, and proposing technical workflows.
         description: |
-          - Validated alignment between specifications and implementation, facilitated team understanding of implementation details, and addressed technical challenges which improved team delivery for a sprint by at least 30% as TAT decreased.
+          - Validated specifications, facilitated team understanding of implementation details, and addressed technical challenges which improved team delivery for a sprint by at least 30% as TAT decreased.
           - Proposed infrastructure changes based on business requirements and addressed scalability which resolved bulk quote conversion issues which increased revenue by 60%.
           - Jira administration, managed Git branching and workflows, documented architecture and solutions, establishing a valuable knowledge repository for future reference and team-wide understanding.
           - Conducted reviews and pioneered the implementation of CI/CD using the AWS SDK and GitHub Actions for a 50% enhancement in continuous integration efficiency.
@@ -47,7 +47,7 @@ content:
           Development of an insurance-based product using APIs, plugins, incorporating third party APIs and invoicing collection.
         description: |
           - Employed APIs to establish communication with the [Socotra Policy Administration System](https://www.socotra.com/) for insurance policy issuance and servicing.
-          - Developed generation of invoices based with installment plans. Also, reduced service team dependency by 1 day by implementing automated workflows for mortgagee bills, agency bill and check collection which was a manual task previously.
+          - Developed installment plan invoices and automated workflows for mortgagee bills, agency bills, and check collection, reducing service team dependency by one day.
           - Applied JavaScript logic for configuring a Price Quote (CPQ) Software, incorporating the development of underwriting plugins resulting in quotes and approval in less than 3 seconds.
           - Achieved PDF and HTML based document generation using liquid templates later moving document generation through Razor templates by using C# SDKs thus reducing document generation time by at least 5 seconds.
           - Collaborated on third-party integrations using GraphQL and HTTP requests for generating a quote.
