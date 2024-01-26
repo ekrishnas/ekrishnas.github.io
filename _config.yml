@@ -108,7 +108,7 @@ content:
         sub_title: Issued by ValueMomentum
         caption: 10/2022
         quote: >
-          This award and recognition is awarded to an associate if they have made a significant change in a positive way to the company.
+          This award is given to an associate who has made a big positive difference in the company.
         description: |
           [Click for certificate!](/images/VM_You have made a difference.png)
 
@@ -124,7 +124,7 @@ content:
   - title: Prominent Skills
     layout: text
     content: |
-      Following are the languages/tool that I have acquired a significant experience apart from my major skill set which were very useful during my work.
+      Languages/tools with significant experience, beyond the main skill set, were valuable during work.
        - Python, JavaScript
        - HTML, CSS, jQuery, Markdown
        - YAML, JSON
