@@ -104,18 +104,18 @@ content:
     layout: list
     content:
       - layout: left
-        title: Made a Difference - Annual
+        title: Made a Difference - Annual.
         sub_title: Issued by ValueMomentum
         caption: "2022"
         quote: >
-          This award is given to an associate who has made a big positive difference in the company.
+          The company gives this award to an associate who has made a significant positive difference.
 
       - layout: left
-        title: Highflier of the Quarter - Innovation
+        title: Highflier of the Quarter - Innovation.
         sub_title: Issued by ValueMomentum
         caption: "2021"
         quote: >
-          A Highflier award in Innovation category is awarded to an employee whose contribution has been innovative to the company and has made a difference to the company.
+          The company awards the Highflier award in the Innovation category to an employee whose innovative contribution has made a significant difference.
 
   - title: Prominent Skills
     layout: text
