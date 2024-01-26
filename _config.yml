@@ -32,13 +32,13 @@ content:
         caption: "2022"
         quote: >
           Scaled the initial product to meet increasing business demand by guiding the team in client collaboration, ensuring comprehension of requirements, and proposing technical workflows.
-          description: |
+        description: |
           - Validated alignment between specifications and implementation, facilitated team understanding of implementation details, and addressed technical challenges.
           - Coded to specifications, effected infrastructure changes based on business requirements, and adapted deployment pipelines.
           - Oversaw Jira administration, contributed to documentation, and managed Git branching and workflows.
           - Conducted reviews and pioneered the implementation of CI/CD using the AWS SDK and GitHub Actions for a 50% enhancement in continuous integration efficiency.
           - Orchestrated the transition from monolithic to microservices architecture, yielding significant improvements in logging, scalability, and team organization.
-          - Carried out implementation of pub-sub-based communication protocols, notably increasing the flexibility and decoupling of services.
+          - Administered implementation of pub-sub-based communication protocols, notably increasing the flexibility and decoupling of services.
           - Sustained effective asynchronous communication, leveraging messaging systems to bolster system responsiveness.
           - Developed accelerators and scripted processes for converting business specifications into system readable files, expediting development workflows.
           - Communicated with clients and service teams through daily meetings, adeptly identifying and resolving issues while implementing effective solutions.
