@@ -41,7 +41,7 @@ content:
           - Proactively communicated with clients and service teams through daily meetings, adeptly identifying and resolving issues while implementing effective solutions.
           - Systematically refined backlogs, provided precise estimates, and actively collaborated with the team, ensuring alignment and consistently meeting target timelines.
           - Documented architecture and solutions on Confluence, establishing a valuable knowledge repository for future reference and team-wide understanding.
-          - Implemented diverse cron jobs, automating routine tasks and enhancing system efficiency.
+          - Implemented diverse batch jobs, automating routine tasks and enhancing system efficiency.
           - Successfully implemented an event-driven architecture, introducing a highly responsive and efficient system design.
 
       - layout: top-middle
