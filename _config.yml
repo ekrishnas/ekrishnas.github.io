@@ -8,7 +8,6 @@ phone: +91-9908866642
 darkmode: true
 github_username: ekrishnas
 stackoverflow_username: '5826312'
-instagram_username: krishna_422
 linkedin_username: krishna1433
 about_title: Introduction
 about_profile_image: images/profile.jpg
@@ -27,12 +26,12 @@ content:
         quote: |
           Scaled the initial product to meet increasing business demand by guiding the team in client collaboration, ensuring comprehension of requirements, and proposing technical workflows.
         description: |
-          - Validated specifications, improved team delivery by 30% for a sprint by decreasing Turnaround Time (TAT).  
+          - Validated specifications, improved team delivery by 30% for a sprint by decreasing Turnaround Time.  
           - Proposed infrastructure changes based on business requirements, resolving bulk quote conversion issues and increasing revenue by 60%.
           - Managed Jira administration, Git branching, and workflows, documenting architecture and solutions for future reference and team-wide understanding.
           - Pioneered CI/CD implementation using AWS SDK and GitHub Actions, achieving a 50% enhancement in continuous integration efficiency.
           - Orchestrated the transition to microservices architecture, reducing errors and improving performance by 6 seconds.
-          - Implemented an event-driven architecture with pub-sub-based communication protocols, eliminating regression issues.
+          - Implemented an event-driven architecture with pub-sub-based communication protocols, eliminating regression issues by 40%.
           - Developed accelerators and scripted processes, expediting development workflows by at least 3 days.
           - Automated diverse batch jobs, enhancing system efficiency and saving the service team 2 days a week.
           - Setup and designed post-payment processing workflows for the [Stripe Payment Gateway](https://stripe.com/).
@@ -46,7 +45,7 @@ content:
         quote: |
           Development of an insurance-based product using APIs, plugins, incorporating third party APIs and invoicing collection.
         description: |
-          - Used APIs to communicate with the [Socotra Policy Administration System](https://www.socotra.com/) for insurance policy issuance and servicing.
+          - Developed APIs to communicate with the [Socotra Policy Administration System](https://www.socotra.com/) for insurance policy issuance and servicing.
           - Developed installment plan invoices and automated workflows, reducing service team dependency by one day.
           - Applied JavaScript logic to configure a Price Quote (CPQ) Software, resulting in quotes and approval in less than 3 seconds.
           - Achieved PDF and HTML document generation using liquid templates, later transitioning to Razor templates with C# SDKs, reducing document generation time by at least 5 seconds.
@@ -54,10 +53,9 @@ content:
           - Facilitated electronic signatures through third-party tools to ensure compliance.
           - Authored stored procedures for streamlined database communication, maintaining uniformity across code.
           - Constructed a mapping layer, facilitating integration and communication between front-end and back-end systems, resulting in reasonable response times by at least 3 seconds.
-          - Led a team of seven members to accomplish business requirements.
 
       - layout: top-middle
-        title: Director of Event Management
+        title: Director
         sub_title: HashtagHyderabad
         caption: 2017 - 2019
         quote: |
@@ -65,7 +63,8 @@ content:
         description: |
           - Conducted meetings with potential clients, converting leads into tangible business value.
           - Orchestrated diverse events, including corporate gatherings, traditional ceremonies, weddings, birthdays, business openings, and media events.
-          - Persuaded vendors from diverse backgrounds, bringing them together to create a cohesive and pleasant event experience.
+          - Persuaded vendors from diverse backgrounds, bringing together to create a cohesive and pleasant event experience.
+
       - layout: top-middle
         title: Product Support Engineer
         link: https://www.hcltech.com/
@@ -74,9 +73,9 @@ content:
         caption: 2017 - 2017
         quote: |
           Diagnosed for Google's DoubleClick for Publisher clients like Microsoft, Motorola, Samsung, Apple.
-        description: |
-          - Documented software defects using a bug tracking system (JIRA) and reported issues to software developers after initial analysis.
-          - Gathered information from user inquiries, read technical manuals, consulted with users, and conducted diagnostics to investigate and resolve problems, providing necessary technical assistance.
+        description: | 
+         - Documented software defects in JIRA, reported to developers after initial analysis, and provided technical assistance by investigating and resolving problems based on user inquiries and diagnostics.
+
       - layout: top-middle
         title: Quality Assurance Engineer
         link: https://www.tcs.com/
@@ -87,21 +86,23 @@ content:
           Manual testing on Telecom Domain
         description: |
           - Executed manual testing of CRM tools, encompassing Salesforce and Oracle Communications with products like Order & Service Management, Billing & Revenue Management (BRM), for clients in both the Philippines and Canada.
+
   - title: Awards and Recognition
     layout: list
     content:
-      - layout: left
+      - layout: top-middle
         title: Made a Difference - Annual award.
-        sub_title: Issued by ValueMomentum
+        sub_title: ValueMomentum
         caption: '2022'
         quote: |
           The company awards associates who make a significant positive difference.
-      - layout: left
+      - layout: top-middle
         title: Highflier of the Quarter - Innovation.
-        sub_title: Issued by ValueMomentum
+        sub_title: ValueMomentum
         caption: '2021'
         quote: |
-          An employee, whose innovative contribution has made a significant difference, receives the Highflier award in the innovation category from the company.
+          An employee, whose innovative contribution has made a significant difference.
+
   - title: Prominent Skills
     layout: text
     content: |
@@ -112,11 +113,12 @@ content:
        - Git, Git Workflows
        - Docker, CI/CD, GitHub & GitHub Actions
        - PDF/HTML Document Generation
-       - Slack Apps, Webhooks and Integrations
+       - Slack Apps, Webhooks & Integrations
        - Stripe Payment Gateway
        - Feature Management
-       - Atlassian products like Jira and Confluence
+       - Jira and Confluence
        - Node.js, GraphQL, AWS Cloud Development Kit, AWS Amplify, AWS Secret Manager, AWS DynamoDB, AWS CloudWatch, AWS IAM, AWS Lambda, AWS SNS, AWS SQS.
+
   - title: Education
     layout: list
     content:
@@ -125,7 +127,7 @@ content:
         caption: '2015'
         sub_title: Keshav Memorial Institute of Technology
         quote: |
-          Obtained bachelors degree with 67% in Electronics and Communications Engineering in Hyderabad from Jawaharlal Nehru Technological University.
+          Obtained bachelors degree with 67% in Electronics and Communications from Jawaharlal Nehru Technological University.
 footer_show_references: false
 remote_theme: sproogen/resume-theme
 sass:
