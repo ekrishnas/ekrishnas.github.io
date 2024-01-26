@@ -53,7 +53,7 @@ content:
           - Collaborated on third-party integrations using GraphQL and HTTP requests for generating a quote.
           - Facilitated electronic signatures through third-party tools to ensure compliance.
           - Authored stored procedures for streamlined communication with the database and thus maintaining uniformity across code.
-          - Constructed a mapping layer, facilitating seamless integration and communication between front-end and backend systems which resulted in reasonable response times better by at least 3 seconds.
+          - Constructed a mapping layer, facilitating integration and communication between front-end and back-end systems, which resulted in reasonable response times by at least 3 seconds.
           - Led a team of seven members to accomplish business requirements.
 
       - layout: top-middle
