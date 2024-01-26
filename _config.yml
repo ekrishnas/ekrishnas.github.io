@@ -1,25 +1,19 @@
 repository: ekrishnas/ekrishnas.github.io
 favicon: images/favicon.ico
-
 version: 2
-
 name: E Sai Krishna
 title: Senior Software Engineer
 email: krishnas1433@gmail.com
 phone: +91-9908866642
-
 darkmode: true
-
 github_username: ekrishnas
-stackoverflow_username: "5826312"
+stackoverflow_username: '5826312'
 instagram_username: krishna_422
 linkedin_username: krishna1433
-
 about_title: Introduction
 about_profile_image: images/profile.jpg
 about_content: |
   A senior software engineer with five years of experience in .NET and AWS working at ValueMomentum, excelling in web applications, backend services, UI/UX development, and building API that serves at least 10,000 requests per day. Currently pursuing AWS Cloud Practitioner Certification.
-
 content:
   - title: Full Time Work Experience
     layout: list
@@ -29,19 +23,18 @@ content:
         link: https://valuemomentum.com/
         link_text: ValueMomentum
         sub_title: ValueMomentum Software Services
-        caption: "2022"
-        quote: >
+        caption: '2022'
+        quote: |
           Scaled the initial product to meet increasing business demand by guiding the team in client collaboration, ensuring comprehension of requirements, and proposing technical workflows.
         description: |
-          - Validated alignment between specifications and implementation, facilitated team understanding of implementation details, and addressed technical challenges.
-          - Coded to specifications, effected infrastructure changes based on business requirements.
+          - Validated alignment between specifications and implementation, facilitated team understanding of implementation details, and addressed technical challenges which improved team delivery for a sprint by at least 30% as we reduced TAT.
+          - Made infrastructure changes based on business requirements and addressed scalability which resolved bulk quote conversion issues which increased revenue by 60%.
           - Jira administration, managed Git branching and workflows, documented architecture and solutions, establishing a valuable knowledge repository for future reference and team-wide understanding.
           - Conducted reviews and pioneered the implementation of CI/CD using the AWS SDK and GitHub Actions for a 50% enhancement in continuous integration efficiency.
-          - Orchestrated the transition from monolithic to microservices architecture, yielding significant improvements in logging, scalability, and team organization.
-          - Administered implementation of pub-sub-based communication protocols, notably increasing the flexibility and decoupling of services achieving effective asynchronous communication.
-          - Developed accelerators and scripted processes for converting business specifications into system readable files, expediting development workflows.
-          - Accomplished diverse batch jobs, automating routine tasks and enhancing system efficiency.
-          - Implemented an event-driven architecture, introducing a highly responsive and efficient system design.
+          - Orchestrated the transition from monolithic to microservices architecture, yielding significant improvements in logging, scalability, and team organization. This effectively reduced errors and improved performance by 6 seconds.
+          - Implemented an event-driven architecture using pub-sub-based communication protocols, notably increasing the flexibility and decoupling of services achieving effective asynchronous communication which reduced dependant issues by multi fold.
+          - Developed accelerators and scripted processes for converting business specifications into system readable files, expediting development workflows by at least 3 days.
+          - Accomplished diverse batch jobs, automating routine tasks and enhancing system efficiency freeing up service team from tedious task and saved 2 days a week.
           - Setup and designed post-payment processing workflows for the [Stripe Payment Gateway](https://stripe.com/).
 
       - layout: top-middle
@@ -50,71 +43,65 @@ content:
         link_text: ValueMomentum
         sub_title: ValueMomentum Software Services
         caption: 2019 - 2022
-        quote: >
+        quote: |
           Development of an insurance-based product using APIs, plugins, incorporating third party APIs and invoicing collection.
         description: |
-          - Communicated with clients and service teams through daily meetings, adeptly identifying and resolving issues while implementing effective solutions.
           - Employed APIs to establish communication with the [Socotra Policy Administration System](https://www.socotra.com/) for insurance policy issuance and servicing.
-          - Managed the generation of invoices based on installment plans, mortgagee bills, agency bill and checks.
-          - Applied JavaScript logic for configuring a Price Quote (CPQ) Software, incorporating the development of underwriting plugins.
-          - Achieved PDF and HTML based document generation using liquid templates, Razor templates by using C# SDKs.
+          - Worked on the generation of invoices based on installment plans. Also, reduced service team dependency by 1 day by implementing automated workflows for mortgagee bills, agency bill and check collection which was a manual task previously.
+          - Applied JavaScript logic for configuring a Price Quote (CPQ) Software, incorporating the development of underwriting plugins resulting in quotes and approval in less than 3 seconds.
+          - Achieved PDF and HTML based document generation using liquid templates later moving document generation through Razor templates by using C# SDKs thus reducing document generation time by at least 5 seconds.
           - Collaborated on third-party integrations using GraphQL and HTTP requests for generating a quote.
           - Facilitated electronic signatures through third-party tools to ensure compliance.
           - Authored stored procedures for streamlined communication with the database and thus maintaining uniformity across code.
-          - Constructed a mapping layer, facilitating seamless integration and communication between front-end and backend systems.
+          - Constructed a mapping layer, facilitating seamless integration and communication between front-end and backend systems which reduced response times by at least 3 seconds.
           - Led a team of seven members to accomplish business requirements.
 
       - layout: top-middle
         title: Director of Event Management
         sub_title: HashtagHyderabad
         caption: 2017 - 2019
-        quote: >
+        quote: |
           An event management company that worked on organizing events for individuals and organizations.
-        description: | 
+        description: |
           - Conducted meetings with potential clients, converting leads into tangible business value.
           - Orchestrated diverse events, including corporate gatherings, traditional ceremonies, weddings, birthdays, business openings, and media events.
-          - Managed vendors from diverse backgrounds bringing together to create a cohesive and pleasant event experience.
-      
+          - Worked with vendors from diverse backgrounds bringing together to create a cohesive and pleasant event experience.
       - layout: top-middle
         title: Product Support Engineer
         link: https://www.hcltech.com/
         link_text: HCLTech
         sub_title: HCLTech
         caption: 2017 - 2017
-        quote: >
+        quote: |
           Diagnosed for Google's DoubleClick for Publisher clients like Microsoft, Motorola, Samsung, Apple.
-        description: | 
+        description: |
           - Documented software defects using a bug tracking system (JIRA) and reported issues to software developers following initial analysis.
           - Gathered information from user inquiries, read technical manuals, consulted with users, and conducted diagnostics to investigate and resolve problems, providing necessary technical assistance.
-
       - layout: top-middle
         title: Quality Assurance Engineer
         link: https://www.tcs.com/
         link_text: Tata Consultancy Services
         sub_title: Tata Consultancy Services
         caption: 2016 - 2016
-        quote: >
+        quote: |
           Manual testing on Telecom Domain
-        description: | 
+        description: |
           - Executed manual testing of CRM tools, encompassing Salesforce and Oracle Communications with products like Order & Service Management, Billing & Revenue Management (BRM), for clients in both the Philippines and Canada.
-
   - title: Awards and Recognition
     layout: list
     content:
       - layout: left
         title: Made a Difference - Annual award.
         sub_title: Issued by ValueMomentum
-        caption: "2022"
-        quote: >
+        caption: '2022'
+        quote: |
           The company awards associates who make a significant positive difference.
-
       - layout: left
         title: Highflier of the Quarter - Innovation.
         sub_title: Issued by ValueMomentum
-        caption: "2021"
-        quote: >
+        caption: '2021'
+        quote: |
           An employee, whose innovative contribution has made a significant difference, receives the Highflier award in the innovation category from the company.
-
   - title: Prominent Skills
     layout: text
     content: |
@@ -130,42 +117,20 @@ content:
        - Feature Management
        - Atlassian products like Jira and Confluence
        - Node.js, GraphQL, AWS Cloud Development Kit, AWS Amplify, AWS Secret Manager, AWS DynamoDB, AWS CloudWatch, AWS IAM, AWS Lambda, AWS SNS, AWS SQS.
-
   - title: Education
     layout: list
     content:
       - layout: left
         title: Bachelor of Technology
-        caption: "2015"
+        caption: '2015'
         sub_title: Keshav Memorial Institute of Technology
-        quote: >
+        quote: |
           Obtained bachelors degree with 67% in Electronics and Communications Engineering in Hyderabad from Jawaharlal Nehru Technological University.
-
-  # - title: Projects
-  #   layout: list
-  #   content:
-  #     - layout: top-middle
-  #       title: Authentication
-  #       link: github.com/ekrishnas/
-  #       link_text: Project Website
-  #       additional_links:
-  #         - title:  ekrishnas/authentication
-  #           icon: fab fa-github
-  #           url: github.com/ekrishnas/authentication
-  #       quote: >
-  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  #       description: |
-  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-# Footer
 footer_show_references: false
-# references_title: References on request (Override references text)
-
 remote_theme: sproogen/resume-theme
-
 sass:
   sass_dir: _sass
   style: compressed
-
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
+Transform: AWS::Serverless-2016-10-31
