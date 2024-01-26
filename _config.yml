@@ -18,7 +18,7 @@ linkedin_username: krishna1433
 about_title: Introduction
 about_profile_image: images/profile.jpg
 about_content: |
-  As a senior software engineer with five years of experience in .NET and AWS working at ValueMomentum, I excel in web applications, backend services, UI/UX development, and building API that serves at least 10,000 requests per day. Currently pursuing AWS Cloud Practitioner Certification.
+  As a senior software engineer with five years of experience in .NET and AWS working at ValueMomentum, excelling in web applications, backend services, UI/UX development, and building API that serves at least 10,000 requests per day. Currently pursuing AWS Cloud Practitioner Certification.
 
 content:
   - title: Full Time Work Experience
@@ -29,9 +29,9 @@ content:
         link: https://valuemomentum.com/
         link_text: ValueMomentum
         sub_title: ValueMomentum Software Services
-        caption: October 2022 - Present
+        caption: 10/2022 - Present
         quote: >
-          Scale the initial product built to cater increasing business demand. In my current role, I guide my team in client collaboration, ensuring comprehension of requirements, proposing technical workflows, validating alignment between specifications and implementation, facilitating team understanding of implementation details, addressing technical challenges, coding to specifications, effecting infrastructure changes based on business requirements, adapting deployment pipelines, overseeing Jira administration, contributing to documentation, managing Git branching and workflows, conducting reviews, etc.
+          Scale the initial product built to cater increasing business demand. In the current role, guiding the team in client collaboration, ensuring comprehension of requirements, proposing technical workflows, validating alignment between specifications and implementation, facilitating team understanding of implementation details, addressing technical challenges, coding to specifications, effecting infrastructure changes based on business requirements, adapting deployment pipelines, overseeing Jira administration, contributing to documentation, managing Git branching and workflows, conducting reviews, etc.
         description: |
           - Pioneered the implementation of CI/CD using the AWS SDK and GitHub Actions, resulting in an impressive 50% enhancement in continuous integration efficiency.
           - Orchestrated the transition from the existing monolithic architecture to a microservices architecture, yielding significant improvements in logging, scalability, and team organization.
@@ -49,7 +49,7 @@ content:
         link: https://valuemomentum.com/
         link_text: ValueMomentum
         sub_title: ValueMomentum Software Services
-        caption: September 2019 - October 2022
+        caption: 09/2019 - 10/2022
         quote: >
           Development of an insurance-based product using APIs and plugins.
         description: |
@@ -64,25 +64,25 @@ content:
           - Leveraged a database to store pertinent information related to quote and policy processing.
           - Authored stored procedures for streamlined communication with the database.
           - Constructed a mapping layer, facilitating seamless integration and communication between front-end and backend systems.
-          - Led a team of seven members, effectively guiding them to accomplish business requirements.
+          - Led a team of seven members effectively to accomplish business requirements.
 
       - layout: top-middle
         title: Director of Event Management
         sub_title: HashtagHyderabad
-        caption: October 2017 - July 2019
+        caption: 10/2017 - 07/2019
         quote: >
           An event management company that worked on organizing events.
         description: | 
           - Conducted meetings with potential clients, converting leads into tangible business value.
           - Orchestrated diverse events, including corporate gatherings, traditional ceremonies, weddings, birthdays, business openings, and media events.
-          - Managed vendors from diverse backgrounds, seamlessly bridging them together to create a cohesive and pleasant event experience.
+          - Managed vendors from diverse backgrounds bringing together to create a cohesive and pleasant event experience.
       
       - layout: top-middle
         title: Product Support Engineer
         link: https://www.hcltech.com/
         link_text: HCLTech
         sub_title: HCLTech
-        caption: April 2017 - August 2017
+        caption: 04/2017 - 08/2017
         quote: >
           Troubleshooting for Google's DoubleClick for Publisher clients like Microsoft, Motorola, Samsung, Apple etc.
         description: | 
@@ -94,7 +94,7 @@ content:
         link: https://www.tcs.com/
         link_text: Tata Consultancy Services
         sub_title: Tata Consultancy Services
-        caption: January 2016 - October 2016
+        caption: 01/2016 - 10/ 2016
         quote: >
           Manual testing on Telecom Domain
         description: | 
@@ -104,22 +104,22 @@ content:
     layout: list
     content:
       - layout: left
-        title: You Have Made a Difference
+        title: Made a Difference
         sub_title: Issued by ValueMomentum
-        caption: October 2022
+        caption: 10/2022
         quote: >
           This award and recognition is awarded to an associate if they have made a significant change in a positive way to the company.
         description: |
-          [Click me for certificate!](/images/VM_You have made a difference.png)
+          [Click for certificate!](/images/VM_You have made a difference.png)
 
       - layout: left
         title: Highflier of the Quarter - Innovation
         sub_title: Issued by ValueMomentum
-        caption: August 2021
+        caption: 08/2021
         quote: >
           A Highflier award in Innovation category is awarded to an employee whose contribution has been innovative to the company and has made a difference to the company.
         description: |
-          [Click me for certificate!](/images/VM_Highflier Innovation.png)
+          [Click for certificate!](/images/VM_Highflier Innovation.png)
 
   - title: Prominent Skills
     layout: text
