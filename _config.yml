@@ -31,10 +31,13 @@ content:
         sub_title: ValueMomentum Software Services
         caption: "2022"
         quote: >
-          Scale the initial product built to cater increasing business demand. In the current role, guiding the team in client collaboration, ensuring comprehension of requirements, proposing technical workflows, validating alignment between specifications and implementation, facilitating team understanding of implementation details, addressing technical challenges, coding to specifications, effecting infrastructure changes based on business requirements, adapting deployment pipelines, overseeing Jira administration, contributing to documentation, managing Git branching and workflows, conducting reviews.
-        description: |
-          - Pioneered the implementation of CI/CD using the AWS SDK and GitHub Actions, resulting in an impressive 50% enhancement in continuous integration efficiency.
-          - Orchestrated the transition from the existing monolithic architecture to a microservices architecture, yielding significant improvements in logging, scalability, and team organization.
+          Scaled the initial product to meet increasing business demand by guiding the team in client collaboration, ensuring comprehension of requirements, and proposing technical workflows.
+          description: |
+          - Validated alignment between specifications and implementation, facilitated team understanding of implementation details, and addressed technical challenges.
+          - Coded to specifications, effected infrastructure changes based on business requirements, and adapted deployment pipelines.
+          - Oversaw Jira administration, contributed to documentation, and managed Git branching and workflows.
+          - Conducted reviews and pioneered the implementation of CI/CD using the AWS SDK and GitHub Actions for a 50% enhancement in continuous integration efficiency.
+          - Orchestrated the transition from monolithic to microservices architecture, yielding significant improvements in logging, scalability, and team organization.
           - Implemented pub-sub-based communication protocols, notably increasing the flexibility and decoupling of services.
           - Sustained effective asynchronous communication, leveraging messaging systems to bolster system responsiveness.
           - Developed accelerators and scripted processes for converting business specifications into system parsable files, expediting development workflows.
@@ -57,8 +60,8 @@ content:
           - Managed the generation of invoices based on installment plans, mortgagee bills, agency bill and checks.
           - Translated business requirements into technical specifications, delivering effective solutions for implementation.
           - Applied JavaScript to write logic for configuring a Price Quote (CPQ) Software, incorporating the development of underwriting plugins.
-          - Implemented document generation using liquid templates and C# SDKs.
-          - Collaborated on third-party integrations using GraphQL and HTTP requests.
+          - Implemented PDF and HTML based document generation using liquid templates, Razor templates by using C# SDKs.
+          - Collaborated on third-party integrations using GraphQL and HTTP requests for generating a quote.
           - Setup and designed post-payment processing workflows for the [Stripe Payment Gateway](https://stripe.com/).
           - Generated documents and facilitated electronic signatures through third-party tools to ensure compliance.
           - Leveraged a database to store pertinent information related to quote and policy processing.
@@ -71,7 +74,7 @@ content:
         sub_title: HashtagHyderabad
         caption: 2017 - 2019
         quote: >
-          An event management company that worked on organizing events for various individuals and organizations.
+          An event management company that worked on organizing events for individuals and organizations.
         description: | 
           - Conducted meetings with potential clients, converting leads into tangible business value.
           - Orchestrated diverse events, including corporate gatherings, traditional ceremonies, weddings, birthdays, business openings, and media events.
