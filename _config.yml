@@ -29,7 +29,7 @@ content:
         link: https://valuemomentum.com/
         link_text: ValueMomentum
         sub_title: ValueMomentum Software Services
-        caption: 10/2022
+        caption: "2022"
         quote: >
           Scale the initial product built to cater increasing business demand. In the current role, guiding the team in client collaboration, ensuring comprehension of requirements, proposing technical workflows, validating alignment between specifications and implementation, facilitating team understanding of implementation details, addressing technical challenges, coding to specifications, effecting infrastructure changes based on business requirements, adapting deployment pipelines, overseeing Jira administration, contributing to documentation, managing Git branching and workflows, conducting reviews, etc.
         description: |
@@ -49,7 +49,7 @@ content:
         link: https://valuemomentum.com/
         link_text: ValueMomentum
         sub_title: ValueMomentum Software Services
-        caption: 09/2019 - 10/2022
+        caption: 2019 - 2022
         quote: >
           Development of an insurance-based product using APIs and plugins.
         description: |
@@ -69,7 +69,7 @@ content:
       - layout: top-middle
         title: Director of Event Management
         sub_title: HashtagHyderabad
-        caption: 10/2017 - 07/2019
+        caption: 2017 - 2019
         quote: >
           An event management company that worked on organizing events.
         description: | 
@@ -82,7 +82,7 @@ content:
         link: https://www.hcltech.com/
         link_text: HCLTech
         sub_title: HCLTech
-        caption: 04/2017 - 08/2017
+        caption: 2017 - 2017
         quote: >
           Troubleshooting for Google's DoubleClick for Publisher clients like Microsoft, Motorola, Samsung, Apple etc.
         description: | 
@@ -94,7 +94,7 @@ content:
         link: https://www.tcs.com/
         link_text: Tata Consultancy Services
         sub_title: Tata Consultancy Services
-        caption: 01/2016 - 10/2016
+        caption: 2016 - 2016
         quote: >
           Manual testing on Telecom Domain
         description: | 
