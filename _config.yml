@@ -103,25 +103,22 @@ content:
       Languages/tools with significant experience, beyond the main skill set, were valuable during work.
        - Python, JavaScript
        - HTML, CSS, jQuery, Markdown
-       - YAML, JSON
-       - Git, Git Workflows
-       - Docker, CI/CD, GitHub & GitHub Actions
+       - Git, Git Workflows, Docker, CI/CD, GitHub & GitHub Actions, Feature Management, Jira and Confluence
        - PDF/HTML Document Generation
        - Slack Apps, Webhooks & Integration
-       - Stripe Payment Gateway
-       - Feature Management
-       - Jira and Confluence
+       - Stripe, OneInc Payment Gateway
        - Node.js, GraphQL, AWS Cloud Development Kit, AWS Amplify, AWS Secret Manager, AWS DynamoDB, AWS CloudWatch, AWS IAM, AWS Lambda, AWS SNS, AWS SQS.
 
   - title: Education
     layout: list
     content:
-      - layout: left
+      - layout: top-middle
         title: Bachelor of Technology
         caption: '2015'
         sub_title: Keshav Memorial Institute of Technology
         quote: |
           Obtained bachelors degree with 67% in Electronics and Communications from Jawaharlal Nehru Technological University.
+          
 footer_show_references: false
 remote_theme: sproogen/resume-theme
 sass:
