@@ -45,7 +45,7 @@ content:
         quote: |
           Development of an insurance-based product using APIs, plugins, incorporating third party APIs and invoicing collection.
         description: |
-          - Designed and implemented APIs to communicate with the  [Socotra Policy Administration System](https://www.socotra.com/) for insurance policy issuance and servicing. Incorporated third-party integration using GraphQL and HTTP requests for quote generation.
+          - Designed and implemented APIs to communicate with the Socotra Policy Administration System for insurance policy issuance and servicing. Incorporated third-party integration using GraphQL and HTTP requests for quote generation.
           - Developed logic to price a quote and get automated underwriting approval in less than 5 seconds, plan invoices, and automating invoice collection thereby reducing service team dependency by one day.
           - Achieved PDF and HTML document generation using liquid templates, later transitioning to Razor templates with C# SDKs, reducing document generation time by at least 5 seconds.
           - Constructed a mapping layer and Authored stored procedures for streamlined database communication, facilitating integration and communication between front-end and back-end systems, resulting in reasonable response times by at least 3 seconds.
