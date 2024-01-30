@@ -85,17 +85,8 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: Made a Difference - 2022 Annual award.
-        sub_title: ValueMomentum
-        caption: '2022'
-        quote: |
-          The company awards associates who make a significant positive difference.
-      - layout: top-middle
-        title: Highflier of the Quarter - Innovation.
-        sub_title: ValueMomentum
-        caption: '2021'
-        quote: |
-          An employee, whose innovative contribution has made a significant difference.
+        title: ValueMomentum
+        sub_title: Highflier of the Quarter - Innovation (2021), Made a Difference - Annual award (2022)
 
   - title: Prominent Skills
     layout: text
