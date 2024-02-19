@@ -95,6 +95,7 @@ content:
        - Git, Git Workflows, Docker, CI/CD, GitHub & GitHub Actions, Feature Management, Jira and Confluence
        - Slack Apps, Webhooks, Stripe, OneInc Payment Gateway
        - Node.js, GraphQL, AWS CDK, AWS Amplify, AWS Secret Manager, AWS DynamoDB, AWS CloudWatch, AWS IAM, AWS Lambda, AWS SNS, AWS SQS.
+       - Azure Function Apps, Azure DevOps
 
   - title: Education
     layout: list
