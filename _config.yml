@@ -13,7 +13,7 @@ linkedin_username: krishna1433
 about_title: Introduction
 about_profile_image: images/profile.jpg
 about_content: |
-  A senior software engineer with 4 years of experience in .NET, AWS and overall experience of 6 years, excelling in web applications, backend services, UI/UX development, and building API that serves at least 10,000 requests per day. Currently pursuing AWS Cloud Practitioner Certification.
+  A senior software engineer with 4.5 years of experience in .NET, AWS and overall experience of 6 years, excelling in web applications, backend services, UI/UX development, and building API that serves at least 10,000 requests per day. Currently pursuing AWS Solutions Architect Certification.
 content:
   - title: Full Time Work Experience
     layout: list
@@ -23,7 +23,7 @@ content:
         link: https://valuemomentum.com/
         link_text: ValueMomentum
         sub_title: ValueMomentum Software Services
-        caption: '2022'
+        caption: 'Present - 2022'
         quote: |
           Scaled the initial product to meet increasing business demand by guiding the team in client collaboration, ensuring comprehension of requirements, and proposing technical workflows.
         description: |
