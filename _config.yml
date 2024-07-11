@@ -19,11 +19,22 @@ content:
     layout: list
     content:
       - layout: top-middle
+          title: Senior Software Engineer
+          link: https://www.epam.com/
+          link_text: EPAM
+          sub_title: EPAM Systems
+          caption: '2024 - Present'
+          quote: |
+            - Inital probation
+          description: |
+            - Inital probation
+
+      - layout: top-middle
         title: Senior Software Engineer
         link: https://valuemomentum.com/
         link_text: ValueMomentum
         sub_title: ValueMomentum Software Services
-        caption: 'Present - 2022'
+        caption: '2022 - 2024'
         quote: |
           Scaled the initial product to meet increasing business demand by guiding the team in client collaboration, ensuring comprehension of requirements, and proposing technical workflows.
         description: |
