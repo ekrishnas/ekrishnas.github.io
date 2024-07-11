@@ -19,15 +19,15 @@ content:
     layout: list
     content:
       - layout: top-middle
-          title: Senior Software Engineer
-          link: https://www.epam.com/
-          link_text: EPAM
-          sub_title: EPAM Systems
-          caption: '2024 - Present'
-          quote: |
-            - Inital probation
-          description: |
-            - Inital probation
+        title: Senior Software Engineer
+        link: https://www.epam.com/
+        link_text: EPAM
+        sub_title: EPAM Systems
+        caption: '2024 - Present'
+        quote: |
+          - Inital probation
+        description: |
+          - Inital probation
 
       - layout: top-middle
         title: Senior Software Engineer
