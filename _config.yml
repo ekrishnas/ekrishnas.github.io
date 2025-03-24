@@ -33,6 +33,7 @@ content:
           - Collaborate with teams to ensure the proposed design following the architectural roadmap and adhere to established standards and policies.
           - Work in collaboration with the client, update the inputs regarding the mitigation plan, and ensure the client is informed about the proposed solution.
           - Creating a project and solution from scratch for migrating background batch jobs to Hangfire for more performant queueing system for background jobs.
+          - Worked with Windows services and is able to integrate with Windows services using WCF.
 
       - layout: top-middle
         title: Senior Software Engineer
