@@ -13,7 +13,7 @@ linkedin_username: krishna1433
 about_title: Introduction
 about_profile_image: images/profile.jpg
 about_content: |
-  A senior software engineer with 6 years of experience in C#, AWS and excelling in web applications, integrations, backend services, and building APIs.
+  A senior software engineer with 7 years of experience in C#, AWS and excelling in web applications, integrations, backend services, and building APIs.
 content:
   - title: Full Time Work Experience
     layout: list
@@ -25,13 +25,14 @@ content:
         sub_title: EPAM Systems
         caption: '2024 - Present'
         quote: |
-          Understand business requirements to debug and provide operational support by fixing performance issues for complex and legacy .NET Application systems.
+          Understand business requirements to debug and provide operational support by fixing performance issues for complex and legacy .NET Application systems. Analysing and migrating exisiting batching system to Hangfire background jobs.
         description: |
           - Design, develop and maintain software solutions using .NET core, .NET Framework, Angular and PostgreSQL.
           - Analyze code base and propose solutions to mitigate performance issues.
           - Analyze existing infrastructure to understand how the application is working and performing in AWS, to deliver solutions.
           - Collaborate with teams to ensure the proposed design following the architectural roadmap and adhere to established standards and policies.
           - Work in collaboration with the client, update the inputs regarding the mitigation plan, and ensure the client is informed about the proposed solution.
+          - Creating a project and solution from scratch for migrating background batch jobs to Hangfire for more performant queueing system for background jobs.
 
       - layout: top-middle
         title: Senior Software Engineer
