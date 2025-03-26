@@ -25,7 +25,7 @@ content:
         sub_title: EPAM Systems
         caption: '2024 - Present'
         quote: |
-          Understand business requirements to debug and provide operational support by fixing performance issues for complex and legacy .NET Application systems. Analysing and migrating exisiting batching system to Hangfire background jobs.
+          Understand business requirements to debug and provide operational support by fixing performance issues for complex and legacy .NET Application systems. Analyzing and migrating existing batching system to Hangfire background jobs.
         description: |
           - Design, develop and maintain software solutions using .NET core, .NET Framework, Angular and PostgreSQL.
           - Analyze code base and propose solutions to mitigate performance issues.
