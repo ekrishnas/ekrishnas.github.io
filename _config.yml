@@ -21,7 +21,7 @@ content:
       - layout: top-middle
         title: Senior Software Engineer
         link: https://www.epam.com/
-        link_text: EPAM
+        link_text: EPAM Systems
         sub_title: EPAM Systems
         caption: '2024 - Present'
         quote: |
@@ -31,9 +31,10 @@ content:
           - Analyze code base and propose solutions to mitigate performance issues.
           - Analyze existing infrastructure to understand how the application is working and performing in AWS, to deliver solutions.
           - Collaborate with teams to ensure the proposed design following the architectural roadmap and adhere to established standards and policies.
-          - Work in collaboration with the client, update the inputs regarding the mitigation plan, and ensure the client is informed about the proposed solution.
+          - Work in collaboration with the client, update the inputs regarding the mitigation plan, and ensure the client is informed and is in agreement about the proposed solution.
           - Creating a project and solution from scratch for migrating background batch jobs to Hangfire for more performant queueing system for background jobs.
           - Worked with Windows services and is able to integrate with Windows services using WCF.
+          - Expereince in working with websocket for front end notifications that speard progress over multiple individual jobs.
 
       - layout: top-middle
         title: Senior Software Engineer
