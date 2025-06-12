@@ -35,6 +35,8 @@ content:
           - Creating a project and solution from scratch for migrating background batch jobs to Hangfire for more performant queueing system for background jobs.
           - Worked with Windows services and is able to integrate with Windows services using WCF.
           - Expereince in working with websocket for front end notifications that speard progress over multiple individual jobs.
+          - Ability to leverage LLMs, Model Context Protocol  in building applications that require AI agents.
+          - Use agents like GitHub copilot and Cline to cut down developement efforts by 80%.
 
       - layout: top-middle
         title: Senior Software Engineer
