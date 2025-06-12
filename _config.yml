@@ -50,6 +50,7 @@ content:
           - Managed Jira administration, Git branching, and workflows, documenting architecture and solutions for future reference and team-wide understanding.
           - Pioneered CI/CD implementation using AWS SDK and GitHub Actions, achieving a 50% enhancement in continuous integration efficiency.
           - Orchestrated the transition to microservices architecture, reducing errors and improving performance by 6 seconds.
+          - Migration of data from existing tables to updated tables after transition for seamless experience.
           - Implemented an event-driven architecture with pub-sub-based communication protocols, eliminating regression issues by 40%.
           - Developed accelerators and scripted processes, thereby expediting development workflows by at least 3 days.
           - Automated diverse batch jobs, enhancing system efficiency and saving the service team 2 days a week.
