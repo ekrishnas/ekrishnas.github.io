@@ -2,7 +2,7 @@ repository: ekrishnas/ekrishnas.github.io
 favicon: images/favicon.ico
 version: 2
 name: E Sai Krishna
-title: Senior Software Engineer
+title: Senior Software Engineer | AWS Ceritfied Developer Associate
 email: krishnas1433@gmail.com
 phone: +91-9908866642
 web: https://ekrishnas.github.io/
@@ -13,7 +13,7 @@ linkedin_username: krishna1433
 about_title: Introduction
 about_profile_image: images/profile.jpg
 about_content: |
-  A senior software engineer with 7 years of experience in C#, AWS and excelling in web applications, integrations, backend services, and building APIs.
+  A senior software engineer with 8 years of experience in C#, AWS and excelling in web applications, integrations, backend services, and building APIs.
 content:
   - title: Full Time Work Experience
     layout: list
@@ -106,6 +106,7 @@ content:
   - title: Certifications
     layout: text
     content: |
+          - [AWS Certified Developer - Associate (August 2025)](https://www.credly.com/badges/b773f8ce-81e1-419f-84b7-b2bf2766b663/public_url)
           - [Google Cloud: Generative AI Leader (June 2025)](https://www.credly.com/badges/2290cd1e-91ab-412e-a693-14ed54a8c6c4/public_url)
           - [AWS Partner: Technical Accredited (August 2024)](https://www.credly.com/badges/f5b353ba-f4c3-4ca5-bbcb-7b9a9488b394/public_url)
           - [More..](https://www.linkedin.com/in/ekrishnas/details/certifications/)
