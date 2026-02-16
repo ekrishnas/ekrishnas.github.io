@@ -2,9 +2,9 @@
 
 on:
   push:
-    branches: [ main, 'resume-next-js' ]
+    branches: [ 'resume-next-js' ]
   pull_request:
-    branches: [ main ]
+    branches: [ 'resume-next-js' ]
 
 jobs:
   build:
@@ -60,4 +60,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./out
           cname: ekrishnas.github.io
+          force_orphan: true
 
