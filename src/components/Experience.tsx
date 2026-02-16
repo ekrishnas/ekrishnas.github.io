@@ -1,7 +1,7 @@
 "use client";
 
 import { experience } from "@/data/portfolio";
-import { Briefcase, Code2 } from "lucide-react";
+import { Briefcase } from "lucide-react";
 
 export default function Experience() {
   return (

@@ -1,14 +1,14 @@
 "use client";
 
 import { personalInfo } from "@/data/portfolio";
-import { Mail, Linkedin, Github, ExternalLink } from "lucide-react";
+import { Mail, Linkedin, Github } from "lucide-react";
 
 export default function Contact() {
   return (
     <section className="py-20 bg-slate-900 border-t border-slate-800">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center space-y-8">
-          <h2 className="text-4xl md:text-5xl font-bold text-white">Let's Connect</h2>
+          <h2 className="text-4xl md:text-5xl font-bold text-white">Let&apos;s Connect</h2>
           <p className="text-slate-400 text-lg max-w-2xl mx-auto">
             Open to new opportunities, collaborations, and interesting projects. Feel free to reach out!
           </p>

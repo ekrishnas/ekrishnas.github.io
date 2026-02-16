@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { personalInfo } from "@/data/portfolio";
-import { Github, Linkedin, Mail, ExternalLink, Code2 } from "lucide-react";
+import { Github, Linkedin, Mail, Code2 } from "lucide-react";
 
 export default function Navigation() {
   return (

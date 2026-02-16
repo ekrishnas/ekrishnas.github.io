@@ -1,7 +1,7 @@
 "use client";
 
 import { certifications, awards, achievements } from "@/data/portfolio";
-import { Award, TrendingUp, Users, ExternalLink } from "lucide-react";
+import { Award, TrendingUp, ExternalLink } from "lucide-react";
 
 export default function Achievements() {
   return (

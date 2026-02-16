@@ -1,7 +1,7 @@
 "use client";
 
 import { personalInfo } from "@/data/portfolio";
-import { ArrowRight, Github, Linkedin, Mail, ExternalLink } from "lucide-react";
+import { ArrowRight, Github, Linkedin, Mail } from "lucide-react";
 import Link from "next/link";
 
 export default function Hero() {

@@ -17,7 +17,7 @@ export default function Skills() {
     <section id="skills" className="py-20 bg-slate-900 border-t border-slate-800">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">Skills & Expertise</h2>
-        <p className="text-slate-400 text-lg mb-12">Technologies and tools I've worked with extensively</p>
+        <p className="text-slate-400 text-lg mb-12">Technologies and tools I&apos;ve worked with extensively</p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {skillCategories.map((category) => {
