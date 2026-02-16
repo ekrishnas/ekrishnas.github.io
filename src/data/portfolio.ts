@@ -1,7 +1,7 @@
 export const personalInfo = {
   name: "E Sai Krishna",
   title: "Senior Software Engineer | AWS Certified Developer Associate",
-  bio: "8+ years of experience in .NET, AWS, and building scalable backend systems and APIs",
+  bio: "8+ years of experience in .NET, AWS, and building scalable backend systems and APIs. Leverages AI tools (Claude, GitHub Copilot) to accelerate development and solve complex problems efficiently.",
   email: "krishnas1433@gmail.com",
   phone: "+91-9908866642",
   linkedin: "https://linkedin.com/in/ekrishnas",
@@ -192,3 +192,4 @@ export const achievements = [
     description: "Reduced errors via event-driven architecture",
   },
 ];
+
