@@ -8,7 +8,7 @@ export const personalInfo = {
   github: "https://github.com/ekrishnas",
   stackoverflow: "https://stackoverflow.com/users/5826312/krishna422",
   // path to a resume file placed in the public folder; update as needed
-  resume: "/resume.pdf",
+  resume: "/Eswarabhatla Sai Krishna .NET Resume - May 2026.pdf",
 };
 
 export const experience = [
