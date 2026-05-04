@@ -1,8 +1,8 @@
 "use client";
 
 import { personalInfo } from "@/data/portfolio";
-import { ArrowRight, Github, Linkedin, Mail } from "lucide-react";
-import Link from "next/link";
+import { ArrowRight, Github, Linkedin, Mail, Download } from "lucide-react";
+import Link from "next/link";    
 
 export default function Hero() {
   return (
@@ -44,6 +44,16 @@ export default function Hero() {
               <Github size={20} />
               GitHub
             </a>
+            {personalInfo.resume && (
+              <a
+                href={personalInfo.resume}
+                download
+                className="px-8 py-3 border border-cyan-500/30 text-cyan-400 font-semibold rounded-lg hover:bg-cyan-500/10 transition flex items-center gap-2"
+              >
+                <Download size={20} />
+                Resume
+              </a>
+            )}
           </div>
 
           <div className="flex gap-6 justify-center pt-8">

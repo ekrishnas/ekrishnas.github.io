@@ -2,9 +2,9 @@
 
 on:
   push:
-    branches: [ 'resume-next-js' ]
+    branches: [ 'main', 'resume-next-js' ]
   pull_request:
-    branches: [ 'resume-next-js' ]
+    branches: [ 'main', 'resume-next-js' ]
 
 jobs:
   build:
@@ -40,13 +40,13 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/resume-next-js' && github.event_name == 'push'
+    if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/resume-next-js')
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: resume-next-js
+          ref: ${{ github.ref }}
 
       - name: Download build artifact
         uses: actions/download-artifact@v4
@@ -59,6 +59,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./out
-          cname: ekrishnas.github.io
+          publish_branch: gh-pages
           force_orphan: true
 

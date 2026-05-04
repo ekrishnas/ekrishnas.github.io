@@ -7,6 +7,8 @@ export const personalInfo = {
   linkedin: "https://linkedin.com/in/ekrishnas",
   github: "https://github.com/ekrishnas",
   stackoverflow: "https://stackoverflow.com/users/5826312/krishna422",
+  // path to a resume file placed in the public folder; update as needed
+  resume: "/resume.pdf",
 };
 
 export const experience = [
@@ -126,6 +128,18 @@ export const skills = {
 };
 
 export const certifications = [
+  {
+    title: "Claude Certified Architect - Foundations",
+    issuer: "Anthropic",
+    date: "May 2026",
+    link: "https://verify.skilljar.com/c/94scecxkigmy",
+  },
+  {
+    title: "AWS Certified AI Practitioner",
+    issuer: "Amazon Web Services",
+    date: "September 2025",
+    link: "https://www.credly.com/badges/24c246a7-187a-4111-92ad-8148e8f3e18c/linked_in_profile",
+  },
   {
     title: "AWS Certified Developer - Associate",
     issuer: "Amazon Web Services",

@@ -19,6 +19,9 @@ export default function Navigation() {
             <Link href="#experience" className="text-slate-300 hover:text-cyan-400 transition text-sm">Experience</Link>
             <Link href="#skills" className="text-slate-300 hover:text-cyan-400 transition text-sm">Skills</Link>
             <Link href="#achievements" className="text-slate-300 hover:text-cyan-400 transition text-sm">Achievements</Link>
+            {personalInfo.resume && (
+              <a href={personalInfo.resume} download className="text-slate-300 hover:text-cyan-400 transition text-sm">Resume</a>
+            )}
           </div>
 
           <div className="flex items-center gap-4">

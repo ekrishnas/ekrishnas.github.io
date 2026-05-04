@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E Sai Krishna - Resume</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.5;
+            color: #333;
+            background: white;
+        }
+        
+        .container {
+            max-width: 8.5in;
+            height: 11in;
+            margin: 0 auto;
+            padding: 0.5in;
+            background: white;
+            box-shadow: 0 0 0 1px #ddd;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 10pt;
+            border-bottom: 1pt solid #333;
+            padding-bottom: 6pt;
+        }
+        
+        h1 {
+            font-size: 16pt;
+            font-weight: bold;
+            margin-bottom: 1pt;
+            letter-spacing: 1pt;
+        }
+        
+        .title {
+            font-size: 10pt;
+            color: #555;
+            margin-bottom: 4pt;
+        }
+        
+        .contact-info {
+            font-size: 8pt;
+            color: #666;
+            line-height: 1.3;
+        }
+        
+        .contact-info span {
+            margin-right: 10pt;
+        }
+        
+        section {
+            margin-bottom: 8pt;
+        }
+        
+        h2 {
+            font-size: 10pt;
+            font-weight: bold;
+            background: #f5f5f5;
+            padding: 3pt 5pt;
+            margin-bottom: 4pt;
+            border-left: 2pt solid #333;
+            text-transform: uppercase;
+            letter-spacing: 0.5pt;
+        }
+        
+        h3 {
+            font-size: 9pt;
+            font-weight: bold;
+            margin-top: 4pt;
+            margin-bottom: 1pt;
+        }
+        
+        .job-title {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 1pt;
+        }
+        
+        .position {
+            font-weight: bold;
+            font-size: 9pt;
+        }
+        
+        .company {
+            font-weight: bold;
+            font-size: 9pt;
+        }
+        
+        .duration {
+            font-size: 8pt;
+            color: #666;
+            font-style: italic;
+        }
+        
+        .description {
+            font-size: 8pt;
+            margin-bottom: 3pt;
+            color: #555;
+        }
+        
+        ul {
+            margin-left: 14pt;
+            margin-bottom: 3pt;
+            font-size: 8pt;
+        }
+        
+        li {
+            margin-bottom: 1pt;
+            line-height: 1.3;
+        }
+        
+        .tech-stack {
+            font-size: 7pt;
+            color: #666;
+            margin-top: 2pt;
+            font-style: italic;
+        }
+        
+        .skills-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 4pt;
+            font-size: 8pt;
+        }
+        
+        .skill-category {
+            margin-bottom: 3pt;
+        }
+        
+        .skill-category strong {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 1pt;
+        }
+        
+        .skill-category p {
+            margin: 0;
+            line-height: 1.2;
+            color: #555;
+        }
+        
+        .achievement {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 4pt;
+            font-size: 8pt;
+        }
+        
+        .achievement strong {
+            min-width: 100pt;
+        }
+        
+        .summary {
+            font-size: 8pt;
+            line-height: 1.4;
+            color: #555;
+            margin-bottom: 4pt;
+        }
+        
+        .certification {
+            margin-bottom: 3pt;
+            font-size: 8pt;
+        }
+        
+        .cert-title {
+            font-weight: bold;
+        }
+        
+        .cert-issuer {
+            color: #666;
+        }
+        
+        @media print {
+            body {
+                background: white;
+                margin: 0;
+                padding: 0;
+            }
+            .container {
+                box-shadow: none;
+                max-width: 100%;
+                height: auto;
+                margin: 0;
+                padding: 0.5in;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>E SAI KRISHNA</h1>
+            <div class="title">Senior Software Engineer | AWS Certified Developer Associate</div>
+            <div class="contact-info">
+                <span>📧 krishnas1433@gmail.com</span>
+                <span>📞 +91-9908866642</span>
+                <span>linkedin.com/in/ekrishnas</span>
+                <span>github.com/ekrishnas</span>
+            </div>
+        </header>
+
+        <section>
+            <h2>Professional Summary</h2>
+            <p class="summary">
+                Senior Software Engineer with 8+ years of experience designing and implementing scalable backend systems, APIs, and cloud solutions on AWS. AWS Certified Developer Associate with proven expertise in .NET, microservices architecture, and event-driven systems. Proficient in leading technical initiatives, mentoring engineers, and leveraging modern AI tools to accelerate development and solve complex problems efficiently.
+            </p>
+        </section>
+
+        <section>
+            <h2>Core Competencies</h2>
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <strong>Programming Languages:</strong>
+                    <p>C#, .NET, JavaScript, Python, HTML, CSS</p>
+                </div>
+                <div class="skill-category">
+                    <strong>Cloud & Infrastructure:</strong>
+                    <p>AWS Lambda, DynamoDB, SNS/SQS, CloudWatch, IAM, EC2</p>
+                </div>
+                <div class="skill-category">
+                    <strong>Architecture:</strong>
+                    <p>Microservices, Event-Driven, RESTful APIs, Pub-Sub, SOLID Principles</p>
+                </div>
+                <div class="skill-category">
+                    <strong>DevOps & Deployment:</strong>
+                    <p>Git, GitHub Actions, CI/CD, Docker, Feature Management</p>
+                </div>
+                <div class="skill-category">
+                    <strong>Databases:</strong>
+                    <p>SQL Server, PostgreSQL, DynamoDB, NoSQL</p>
+                </div>
+                <div class="skill-category">
+                    <strong>Integrations:</strong>
+                    <p>Stripe, GraphQL, Webhooks, WCF, Message Brokers</p>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2>Professional Experience</h2>
+            
+            <h3 class="position">Senior Software Engineer</h3>
+            <div class="job-title">
+                <span class="company">EPAM Systems</span>
+                <span class="duration">January 2026 - Present</span>
+            </div>
+            <p class="description">Acting team lead leveraging AI pair programming to accelerate migration from legacy systems to high-performance data access services with RESTful APIs.</p>
+            <ul>
+                <li>Led migration initiatives from legacy systems to modern, performant data access services</li>
+                <li>Collaborated with development teams and clients on architectural improvements</li>
+                <li>Designed and implemented solutions using Claude Code and Model Context Protocol</li>
+                <li>Mentored 6 engineers in team on AI-assisted development and architecture patterns</li>
+                <li>Accelerated development velocity by 80% through AI pair programming</li>
+            </ul>
+            <div class="tech-stack">Technologies: .NET Core, AWS, Claude Code, Git</div>
+
+            <h3 class="position">Senior Software Engineer</h3>
+            <div class="job-title">
+                <span class="company">EPAM Systems</span>
+                <span class="duration">January 2025 - December 2025</span>
+            </div>
+            <p class="description">Architected and implemented migration of legacy batching system to Hangfire background jobs for improved performance and reliability.</p>
+            <ul>
+                <li>Architected Hangfire-based solution for background job processing</li>
+                <li>Designed performant queueing system improving reliability by 40%</li>
+                <li>Integrated Windows services using WCF for legacy system communication</li>
+                <li>Implemented WebSocket for real-time progress notifications</li>
+                <li>Refactored applications achieving 30% performance improvement</li>
+            </ul>
+            <div class="tech-stack">Technologies: Hangfire, .NET Framework, Windows Services, WebSocket, WCF</div>
+
+            <h3 class="position">Senior Software Engineer</h3>
+            <div class="job-title">
+                <span class="company">EPAM Systems</span>
+                <span class="duration">July 2024 - December 2024</span>
+            </div>
+            <p class="description">Addressed architectural debt and performance bottlenecks in complex corporate tax platform serving Fortune 500 clients.</p>
+            <ul>
+                <li>Debugged intricate .NET systems identifying root causes of failures</li>
+                <li>Designed comprehensive solutions using ASP.NET, .NET Core, Angular, PostgreSQL</li>
+                <li>Conducted codebase analysis and proposed performance strategies</li>
+                <li>Evaluated AWS infrastructure for optimization opportunities</li>
+            </ul>
+            <div class="tech-stack">Technologies: ASP.NET, .NET Framework, Angular, PostgreSQL, AWS</div>
+
+            <h3 class="position">Engineer, Team Lead</h3>
+            <div class="job-title">
+                <span class="company">ValueMomentum</span>
+                <span class="duration">September 2019 - June 2024</span>
+            </div>
+            <p class="description">Scaled insurance product platform to meet business demand through infrastructure optimization, microservices migration, and CI/CD implementation.</p>
+            <ul>
+                <li>Proposed infrastructure changes increasing company revenue by 60%</li>
+                <li>Pioneered CI/CD with GitHub Actions achieving 50% efficiency improvement</li>
+                <li>Orchestrated microservices transition reducing errors by 40%</li>
+                <li>Implemented event-driven architecture with pub-sub communication</li>
+                <li>Automated batch jobs saving operations team 2+ days per week</li>
+                <li>Mentored 5 engineers in team on architecture and cloud best practices</li>
+            </ul>
+            <div class="tech-stack">Technologies: C#, .NET, AWS, GitHub Actions, DynamoDB</div>
+
+            <h3 class="position">Software Engineer</h3>
+            <div class="job-title">
+                <span class="company">ValueMomentum</span>
+                <span class="duration">2019 - 2022</span>
+            </div>
+            <p class="description">Developed insurance-based product platform utilizing APIs, third-party integrations, and complex payment workflows.</p>
+            <ul>
+                <li>Designed APIs for Socotra Policy Administration System integration</li>
+                <li>Implemented quote pricing engine with automated approval under 5 seconds</li>
+                <li>Optimized document generation reducing creation time by 5+ seconds</li>
+                <li>Integrated Stripe Payment Gateway for secure transactions</li>
+            </ul>
+            <div class="tech-stack">Technologies: C#, .NET, GraphQL, Stripe, Socotra API</div>
+        </section>
+
+        <section>
+            <h2>Education</h2>
+            <p><strong>Bachelor of Technology, Electronics and Communications</strong></p>
+            <p>Keshav Memorial Institute of Technology (JNTU) | 2015 | 67%</p>
+        </section>
+
+        <section>
+            <h2>Certifications</h2>
+            <div class="certification">
+                <span class="cert-title">Claude Certified Architect - Foundations</span>
+                <span class="cert-issuer">Anthropic | May 2026</span>
+            </div>
+            <div class="certification">
+                <span class="cert-title">AWS Certified AI Practitioner</span>
+                <span class="cert-issuer">Amazon Web Services | September 2025</span>
+            </div>
+            <div class="certification">
+                <span class="cert-title">AWS Certified Developer - Associate</span>
+                <span class="cert-issuer">Amazon Web Services | August 2025</span>
+            </div>
+            <div class="certification">
+                <span class="cert-title">Google Cloud: Generative AI Leader</span>
+                <span class="cert-issuer">Google Cloud | June 2025</span>
+            </div>
+            <div class="certification">
+                <span class="cert-title">AWS Partner: Technical Accredited</span>
+                <span class="cert-issuer">Amazon Web Services | August 2024</span>
+            </div>
+        </section>
+
+        <section>
+            <h2>Key Achievements</h2>
+            <div class="achievement">
+                <strong>8+ Years Experience</strong>
+                <span>Building scalable systems and cloud solutions</span>
+            </div>
+            <div class="achievement">
+                <strong>11 Engineers Mentored</strong>
+                <span>6 at EPAM, 5 at ValueMomentum</span>
+            </div>
+            <div class="achievement">
+                <strong>60% Revenue Impact</strong>
+                <span>Through infrastructure optimization</span>
+            </div>
+            <div class="achievement">
+                <strong>40% Error Reduction</strong>
+                <span>Via event-driven architecture</span>
+            </div>
+        </section>
+    </div>
+</body>
+</html>

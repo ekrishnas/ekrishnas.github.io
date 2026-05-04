@@ -122,6 +122,8 @@ git push -u origin main
 - DevOps: Git, GitHub Actions, Docker, CI/CD
 
 ### Certifications & Awards
+- Claude Certified Architect - Foundations (May 2026)
+- AWS Certified AI Practitioner (September 2025)
 - AWS Certified Developer Associate (Aug 2025)
 - Google Cloud: Generative AI Leader (June 2025)
 - AWS Partner: Technical Accredited (Aug 2024)
