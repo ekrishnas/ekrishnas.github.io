@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { personalInfo } from "@/data/portfolio";
-import { Github, Linkedin, Mail, Code2 } from "lucide-react";
+import { Github, Linkedin, Mail, Code2, Download } from "lucide-react";
 
 export default function Navigation() {
   return (
@@ -18,9 +18,14 @@ export default function Navigation() {
             <Link href="#about" className="text-slate-300 hover:text-cyan-400 transition text-sm">About</Link>
             <Link href="#experience" className="text-slate-300 hover:text-cyan-400 transition text-sm">Experience</Link>
             <Link href="#skills" className="text-slate-300 hover:text-cyan-400 transition text-sm">Skills</Link>
+            <Link href="#education" className="text-slate-300 hover:text-cyan-400 transition text-sm">Education</Link>
+            <Link href="#certifications" className="text-slate-300 hover:text-cyan-400 transition text-sm">Certifications</Link>
             <Link href="#achievements" className="text-slate-300 hover:text-cyan-400 transition text-sm">Achievements</Link>
             {personalInfo.resume && (
-              <a href={personalInfo.resume} download className="text-slate-300 hover:text-cyan-400 transition text-sm">Resume</a>
+              <a href={personalInfo.resume} download className="flex items-center gap-2 text-slate-300 hover:text-cyan-400 transition text-sm">
+                <span>Resume</span>
+                <Download size={16} />
+              </a>
             )}
           </div>
 
