@@ -15,7 +15,13 @@ export default function Education() {
               <h3 className="text-xl font-bold text-white">{edu.degree} - {edu.field}</h3>
               <p className="text-slate-300">{edu.university_full} — {edu.university}</p>
               <div className="mt-2 text-slate-400 text-sm">
-                <span className="font-semibold text-slate-200">Year:</span> {edu.year} • <span className="font-semibold text-slate-200">Score:</span> {edu.percentage}
+                <span className="font-semibold text-slate-200">Year:</span> {edu.year}
+                {'percentage' in edu && edu.percentage ? (
+                  <>
+                    <span className="mx-2">•</span>
+                    <span className="font-semibold text-slate-200">Score:</span> {edu.percentage}
+                  </>
+                ) : null}
               </div>
             </div>
           ))}
