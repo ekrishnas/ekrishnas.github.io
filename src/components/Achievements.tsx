@@ -20,17 +20,17 @@ export default function Achievements() {
           ))}
         </div>
 
-        {/* Certifications */}
+        {/* Certifications (top few) */}
         <div className="mb-12">
           <h3 className="text-2xl font-bold text-white mb-6 flex items-center gap-2">
             <Award className="text-cyan-400" />
-            Certifications
+            Certifications (selected)
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {certifications.map((cert) => (
+            {certifications.slice(0, 3).map((cert) => (
               <a 
                 key={cert.title}
-                href={cert.link}
+                href={cert.link || '#certifications'}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-slate-900/50 border border-slate-800 rounded-lg p-6 hover:border-cyan-500/30 transition group"
@@ -40,9 +40,12 @@ export default function Achievements() {
                   <ExternalLink size={18} className="text-cyan-400 flex-shrink-0" />
                 </div>
                 <p className="text-cyan-400 text-sm mb-2">{cert.issuer}</p>
-                <p className="text-slate-400 text-sm">{cert.date}</p>
+                <p className="text-slate-400 text-sm">{cert.issued || cert.date || 'Unspecified'}</p>
               </a>
             ))}
+          </div>
+          <div className="mt-4 text-right">
+            <a href="#certifications" className="text-cyan-400 hover:underline text-sm">View all certifications</a>
           </div>
         </div>
 
