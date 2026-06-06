@@ -24,7 +24,7 @@ export default function Achievements() {
         <div className="mb-12">
           <h3 className="text-2xl font-bold text-white mb-6 flex items-center gap-2">
             <Award className="text-cyan-400" />
-            Certifications (selected)
+            Certifications
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {certifications.slice(0, 3).map((cert) => (
