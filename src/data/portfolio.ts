@@ -100,7 +100,7 @@ export const experience = [
       "Coordinated with vendors across diverse backgrounds",
       "Orchestrated corporate and personal events",
     ],
-    technologies: ["Event Management", "Business Development"],
+    technologies: ["Technology Career Break", "Event Management", "Business Development"],
   },
   {
     id: 7,
@@ -113,7 +113,18 @@ export const experience = [
       "Documented software defects in JIRA",
       "Provided technical assistance through investigation and diagnostics",
     ],
-    technologies: ["JIRA", "Support", "Troubleshooting"],
+    technologies: ["JavaScript", "JIRA", "Support", "Troubleshooting"],
+  },
+  {
+    id: 8,
+    company: "Tata Consultancy Services",
+    position: "Automation Test Engineer",
+    duration: "2016",
+    description: "Telecom domain testing and automation of CRM and Order Processing.",
+    highlights: [
+      "Writing and executing test cases, automating tests using Selenium and NUnit",
+    ],
+    technologies: ["C#", ".Net", "NUnit", "Selenium", "JIRA", "Test Automation"],
   },
 ];
 
