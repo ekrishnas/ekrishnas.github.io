@@ -8,7 +8,8 @@ export const personalInfo = {
   github: "https://github.com/ekrishnas",
   stackoverflow: "https://stackoverflow.com/users/5826312/krishna422",
   // path to a resume file placed in the public folder; update as needed
-  resume: "/Eswarabhatla_Sai_Krishna_Resume_2026.pdf",
+  // The uploaded file name contains spaces/special chars — URL-encode for the href
+  resume: "/Eswarabhatla%20Sai%20Krishna%20.NET%20Resume%20-%20June%202026.pdf",
 };
 
 export const experience = [
