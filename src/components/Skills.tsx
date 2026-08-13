@@ -1,15 +1,17 @@
 "use client";
 
 import { skills } from "@/data/portfolio";
-import { Code2, Cloud, Zap, Database, GitBranch, Workflow } from "lucide-react";
+import { Code2, Cloud, Zap, Database, GitBranch, Workflow, Bot, Activity } from "lucide-react";
 
 const skillCategories = [
+  { title: "AI Platform & Agents", icon: Bot, skills: skills.ai },
   { title: "Languages", icon: Code2, skills: skills.languages },
   { title: "Cloud Services", icon: Cloud, skills: skills.cloud },
   { title: "Architecture", icon: Zap, skills: skills.architecture },
   { title: "DevOps", icon: GitBranch, skills: skills.devops },
   { title: "Databases", icon: Database, skills: skills.databases },
   { title: "Integrations", icon: Workflow, skills: skills.integrations },
+  { title: "Observability & Quality", icon: Activity, skills: skills.observability },
 ];
 
 export default function Skills() {
